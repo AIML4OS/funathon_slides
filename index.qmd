@@ -83,49 +83,53 @@ The 2026 funathon will take place over two days, on [__May 27th and 28th__]{.ora
 
 . . .
 
-- [__Welcome session__]{.blue2} (~30 min on the first day): organizers will explain and present the projects.
+- [__Welcome session__]{.blue2} (~30 min on the first day): presentation of the projects.
 
 . . .
 
-- [__Team work__]{.blue2} on one project over two days.
+- [__Team work__]{.blue2} on one project (or more than one!!) over two days.
 
 . . .
 
-- [__Wrap-up session__]{.blue2} (~4:30pm on the second day): feedback and optional results presentation.
+- [__Wrap-up session__]{.blue2} (~4:30pm on the second day): feedback and results presentation.
 
 ::: {.callout-note}
-Presenting your results is **NOT** compulsory — the funathon is not a competition or an exam!
+Presenting your results is **NOT** compulsory — the funathon is not an exam!
 :::
 
-## Technical organization {.smaller}
+. . .
 
 The funathon will take place online:
 
 - Participants will work on [__SSPCloud__]{.orange}: https://datalab.sspcloud.fr/;
 - A support team will provide [__online technical support__]{.orange} over Zoom.
 
-. . .
+
+## Technical organization {.smaller}
 
 To participate you will need:
 
 - a [__Github account__]{.blue2};
 - a [__SSPCloud account__]{.blue2};
-- an internet connection;
+- a good internet connection;
 - access to Zoom.
+
+An onboarding session on may 18th will cover these requirements in detail.
 
 . . .
 
-An onboarding session on may 18th will cover these requirements in detail.
+[__How to enjoy the funathon__]{.blue2}:
+
+- __Make a team with your colleagues__.
+- [__Book a room__]{.orange} for two days to work together [__in-person__]{.orange} — it's much more fun with colleagues!
+- Get water, coffee and snacks.
+- [__Work together__]{.orange}, for instance two colleagues on one computer.
+- [__Ask for help__]{.orange} is you are stuck.
+
 
 ## Registration {.smaller}
 
 Registration is __compulsory__. Participants register in teams of approximately 3 to 5 people.
-
-. . .
-
-::: {.callout-important}
-Organizers strongly recommend __booking a room__ to work together in-person — it's much more fun with colleagues!
-:::
 
 . . .
 
