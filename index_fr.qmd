@@ -26,6 +26,89 @@ from: markdown+emoji
 
 # Le Funathon
 
+## Qu'est-ce qu'un Funathon ? {.smaller}
+
+Un funathon est un événement particulier, à mi-chemin entre une formation et un hackathon. Il vise à donner aux statisticiens l'opportunité d'__apprendre et d'appliquer des méthodes de machine learning et d'IA dans un environnement collaboratif et bienveillant__.
+
+::: {.incremental}
+
+- Événement __non-compétitif__ : le seul objectif est d'apprendre et de s'amuser.
+- Événement __inclusif avec très peu de prérequis techniques__ : toute personne désireuse de travailler et d'apprendre est la bienvenue.
+- Tous les projets seront réalisés sur la plateforme __SSPCloud__.
+- L'équipe organisatrice apportera un soutien technique via Zoom tout au long de l'événement.
+
+:::
+
+## En quoi consistent les projets ? {.smaller}
+
+Les projets du funathon sont des projets IA et ML de bout en bout illustrant comment réaliser une tâche statistique complexe (codification, traitement d'images satellites...).
+
+::: {.incremental}
+
+- Chaque projet contient : des [__données__]{.blue2}, du [__code__]{.blue2}, une configuration technique complète, une documentation détaillée et des exercices avec indices et corrections.
+- Projets [__adaptés aux débutants__]{.orange} avec très peu de prérequis techniques.
+- [__Solutions détaillées__]{.orange} incluses pour que personne ne reste bloqué.
+- Après l'événement, tous les projets resteront disponibles sur Github.
+
+:::
+
+## Programme {.smaller}
+
+Le funathon 2026 se déroulera sur deux jours, les [__27 et 28 mai__]{.orange}, de 9h30 à 17h30 (UTC+1/CET) :
+
+. . .
+
+- [__Session d'accueil__]{.blue2} (~30 min) : les organisateurs présenteront les projets.
+
+. . .
+
+- [__Travail en équipes__]{.blue2} sur un projet pendant deux jours.
+
+. . .
+
+- [__Session de clôture__]{.blue2} (~16h30 le deuxième jour) : retours des participants et présentations optionnelles des résultats.
+
+::: {.callout-note}
+La présentation des résultats n'est **pas obligatoire** — le funathon n'est ni une compétition ni un examen !
+:::
+
+## Inscription {.smaller}
+
+L'inscription est __obligatoire__. Les participants s'inscrivent en équipes de 3 à 5 personnes.
+
+. . .
+
+::: {.callout-important}
+Les organisateurs recommandent fortement de __réserver une salle__ pour travailler ensemble en présentiel — c'est bien plus sympa !
+:::
+
+. . .
+
+__Processus en deux étapes :__
+
+- S'inscrire via le lien d'inscription (voir page d'accueil).
+- Confirmation par e-mail des organisateurs vers le [__10 mai__]{.orange}.
+
+. . .
+
+__Sessions d'onboarding :__
+
+- [Lundi 18 mai]{.orange} après-midi
+- [Vendredi 22 mai]{.orange} matin
+
+## Questions fréquentes {.smaller}
+
+::: {.incremental}
+
+- __Mon équipe peut-elle regrouper des agents de pays différents ?__ Oui, mais travailler en présentiel avec des collègues proches est fortement recommandé.
+- __Peut-on participer seul ?__ Oui, mais participer en équipe est bien plus efficace et amusant.
+- __Faut-il présenter ses résultats ?__ Non, ce n'est pas obligatoire.
+- __Quels sont les prérequis techniques ?__ Un compte Github et un compte SSPCloud. Une connaissance de base de Git et Python est utile mais pas indispensable.
+- __Faut-il utiliser SSPCloud ?__ C'est fortement recommandé (le support technique sera assuré uniquement sur SSPCloud).
+- __Puis-je utiliser mes propres données ?__ Oui, à condition qu'elles soient en open data (aucune donnée confidentielle sur SSPCloud).
+
+:::
+
 ## Principe {.smaller}
 
 :::: {.columns}
