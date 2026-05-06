@@ -2,10 +2,10 @@
 title: Funathon Presentation
 subtitle: |
   **[And especially [`SSPCloud`](https://datalab.sspcloud.fr/?lang=fr) and `Git` {{< fa brands git-alt >}}]{.orange}**
-author: Lino Galiana
+author: Olivier Meslin
 slide-number: true
 footer: |
-  Funathon 2024, event presentation
+  AIML4OS Funathon
 # uncomment for French presentations: 
 lang: en
 # for blind readers:
