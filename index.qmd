@@ -169,6 +169,10 @@ This onboarding session will explain:
 
 :::
 
+## The end of the beginning {.smaller}
+
+[__Thanks for you attention!__]{.orange}
+
 <!-- ## Practical details {.smaller}
 
 - [__100% virtual event over 2 days__]{.blue2}:
