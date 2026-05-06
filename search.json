@@ -14,6 +14,20 @@
     "text": "What do projects consist in?\nFunathon projects are end-to-end AI and ML projects demonstrating how to carry out a complex statistical task (codification, satellite imagery processing…).\n\nEach project contains: data, code, complete technical configuration, detailed documentation, and exercises with hints and answers.\nProjects are well-suited for beginners with minimal technical requirements.\nDetailed solutions are included so that no one gets stuck.\nAfter the funathon, all projects will remain available on Github."
   },
   {
+    "objectID": "index.html#what-will-you-learn",
+    "href": "index.html#what-will-you-learn",
+    "title": "Funathon Presentation",
+    "section": "What will you learn?",
+    "text": "What will you learn?\n\nDiscover AI and ML methods, tools and best practices;\n\n\n\nWork on real-life AIML use cases relevant for official statistics.\n\n\n\n\nGet familiar with cloud-native work environments such as SSPCloud."
+  },
+  {
+    "objectID": "index.html#requirements",
+    "href": "index.html#requirements",
+    "title": "Funathon Presentation",
+    "section": "Requirements",
+    "text": "Requirements\nThe funathon is open to anyone willing to develop skills in AI and ML.\n\nThis being said, you’ll benefit more from the funathon if you have:\n\na basic knowledge of Git (git clone, git pull, git push…);\na basic knowledge of Python;\nSome experience in ML and AI is not necessary (but useful, of course!)."
+  },
+  {
     "objectID": "index.html#schedule",
     "href": "index.html#schedule",
     "title": "Funathon Presentation",
