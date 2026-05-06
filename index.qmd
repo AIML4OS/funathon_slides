@@ -167,6 +167,17 @@ Due to capacity constraints on SSPCloud, some teams may not be allowed to partic
 
 An onboarding session will take place on [Monday May 18th]{.orange} at 3:30pm (CET/GMT+1). 
 
+. . .
+
+This onboarding session will explain:
+
+- How to create a Github account and an SSPCloud account;
+- How to use SSPCloud;
+- How to work on a project.
+
+
+
+
 ## Frequently Asked Questions {.smaller}
 
 ::: {.incremental}
