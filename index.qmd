@@ -102,14 +102,6 @@ This being said, you'll benefit more from the funathon if you have:
 - a basic knowledge of [__Python__]{.orange};
 - Some experience in ML and AI is not necessary (but useful, of course!).
 
-. . .
-
-To participate you will need:
-
-- a [__Github account__]{.blue};
-- a [__SSPCloud account__]{.blue}.
-
-
 ## Schedule {.smaller}
 
 The 2026 funathon will take place over two days, on [__May 27th and 28th__]{.orange}, from 9:30am to 5:30pm (UTC+1/CET):
@@ -129,6 +121,23 @@ The 2026 funathon will take place over two days, on [__May 27th and 28th__]{.ora
 ::: {.callout-note}
 Presenting your results is **NOT** compulsory — the funathon is not a competition or an exam!
 :::
+
+## Technical organization {.smaller}
+
+The funathon will take place online:
+
+- Participants will work on [__SSPCloud__]{.orange} [[__link__]{.blue}](https://datalab.sspcloud.fr/);
+- A support team will provide [__online support__]{.orange} over Zoom.
+
+. . .
+
+To participate you will need:
+
+- a [__Github account__]{.blue};
+- a [__SSPCloud account__]{.blue};
+- an internet connection;
+- access to Zoom.
+
 
 ## Registration {.smaller}
 
