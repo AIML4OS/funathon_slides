@@ -1,13 +1,13 @@
 ---
-title: Présentation du Funathon
+title: Funathon Presentation
 subtitle: |
-  **[Et surtout du [`SSPCloud`](https://datalab.sspcloud.fr/?lang=fr) et de `Git` {{< fa brands git-alt >}}]{.orange}**
+  **[And especially [`SSPCloud`](https://datalab.sspcloud.fr/?lang=fr) and `Git` {{< fa brands git-alt >}}]{.orange}**
 author: Lino Galiana
 slide-number: true
 footer: |
-  Funathon 2024, présentation de l'événement
+  Funathon 2024, event presentation
 # uncomment for French presentations:
-lang: fr-FR
+lang: en
 # for blind readers:
 slide-tone: false
 # for @olevitt:
@@ -24,9 +24,9 @@ css: custom.css
 from: markdown+emoji
 ---
 
-# Le Funathon
+# The Funathon
 
-## Principe {.smaller}
+## Overview {.smaller}
 
 :::: {.columns}
 
@@ -34,13 +34,13 @@ from: markdown+emoji
 
 ::: {.incremental}
 
-- __[4 sujets]{.blue2}__ pour découvrir différents champs de la _data science_
-    + Pas une compétition mais des [tutoriels pas à pas]{.orange}
-    + Mais n'hésitez pas à tester des choses nouvelles 😍 <br><br>
-- [**_"Décollage imminent pour la data science"_**]{.blue2}
-    + Thématique : statistiques sur l'aviation civile
-    + Organisation: équipes innovation de l'Insee & DGAC <br><br>
-- __Point d'entrée__ : [inseefrlab.github.io/funathon2024/](https://inseefrlab.github.io/funathon2024/)
+- __[4 topics]{.blue2}__ to explore different areas of _data science_
+    + Not a competition but [step-by-step tutorials]{.orange}
+    + Feel free to try new things 😍 <br><br>
+- [**_"Immediate takeoff for data science"_**]{.blue2}
+    + Theme: statistics on civil aviation
+    + Organization: innovation teams from Insee & DGAC <br><br>
+- __Entry point__ : [inseefrlab.github.io/funathon2024/](https://inseefrlab.github.io/funathon2024/)
 
 :::
 
@@ -55,144 +55,144 @@ from: markdown+emoji
 ::::
 
 ::: {.callout-note collapse="true"}
-## Ressources de l'an dernier
+## Last year's resources
 
-L'ensemble des ressources de l'an dernier (_"Du champ à l'assiette"_) peut être retrouvée sur [inseefrlab.github.io/funathon2023/](https://inseefrlab.github.io/funathon2023/)
+All of last year's resources (_"From field to plate"_) can be found at [inseefrlab.github.io/funathon2023/](https://inseefrlab.github.io/funathon2023/)
 
 :::
 
-## Modalités pratiques {.smaller}
+## Practical details {.smaller}
 
-- [__Événement 💯% virtuel sur 2 jours__]{.blue2}:
-    + [Premier jour]{.orange}: introduction à __9h30__ ;
-    + [Deuxième jour]{.orange}: fin du travail sur les sujets à __16h30__, restitution et conclusion ensuite 
+- [__100% virtual event over 2 days__]{.blue2}:
+    + [First day]{.orange}: introduction at __9:30am__ ;
+    + [Second day]{.orange}: end of work on topics at __4:30pm__, then presentation and conclusion
 
 . . .
 
 
-- [__Assistance sur Tchap et Zoom__]{.blue2} (liens 👇️):
-    + Assistance garantie: 10h-17h30 (sauf le midi 🍔) ;
-    + Ne restez pas bloqués, [posez des questions !]{.orange}
+- [__Support on Tchap and Zoom__]{.blue2} (links below 👇️):
+    + Guaranteed assistance: 10am-5:30pm (except lunch 🍔) ;
+    + Don't get stuck, [ask questions!]{.orange}
 
 
 ::: {.callout-note}
-## Liens utiles
+## Useful links
 
-- [Canal `Tchap` `Funathon 2024`](https://matrix.to/#/#funathon2024:agent.finances.tchap.gouv.fr)
-- [Canal `Zoom`](https://insee-fr.zoom.us/j/94735555913?pwd=dEtLQjg2Y1QrRzl3ei95dkRyOEVXdz09) sur les deux jours
+- [`Tchap` channel `Funathon 2024`](https://matrix.to/#/#funathon2024:agent.finances.tchap.gouv.fr)
+- [`Zoom` channel](https://insee-fr.zoom.us/j/94735555913?pwd=dEtLQjg2Y1QrRzl3ei95dkRyOEVXdz09) over both days
 :::
 
-## Les 4 sujets {.smaller}
+## The 4 topics {.smaller}
 
-- [__Ressources {{< fa brands r-project >}} et {{< fa brands python >}} sur *open data* de la DGAC__]{.blue2} :
-  + [2 sujets]{.orange} permettent de faire du {{< fa brands r-project >}}
-  + [3 sujets]{.orange} permettent de faire du {{< fa brands python >}}
-  + Niveaux techniques indiqués sur les sujets
+- [__{{< fa brands r-project >}} and {{< fa brands python >}} resources on *open data* from DGAC__]{.blue2} :
+  + [2 topics]{.orange} allow you to use {{< fa brands r-project >}}
+  + [3 topics]{.orange} allow you to use {{< fa brands python >}}
+  + Technical levels indicated on the topics
 
 . . .
 
-- Tutoriels complets __[avec corrections]{.blue2}__
-  + Cherchez avant de regarder la correction, c'est le meilleur apprentissage !
-  + Objectif secondaire: [__se former à `Git` {{< fa brands git-alt >}} et à la reproductibilité__]{.blue2}
+- Complete tutorials __[with solutions]{.blue2}__
+  + Look for the answer before checking the solution, it's the best way to learn!
+  + Secondary goal: [__learn `Git` {{< fa brands git-alt >}} and reproducibility__]{.blue2}
 
 
 ::: {.callout-note}
-## Plus de fun en équipe 😺
+## More fun as a team 😺
 
-N'hésitez pas à traiter les sujets en équipe
+Feel free to work on the topics as a team
 :::
 
-## Les 4 sujets
+## The 4 topics
 
-__Présentation des 4 sujets__
+__Presentation of the 4 topics__
 
-![Retrouver les sujets sur [inseefrlab.github.io/funathon2024/](https://inseefrlab.github.io/funathon2024/)](img/sujets_funathon2024.png)
-
-
-# Le SSP Cloud, c'est quoi ?
+![Find the topics at [inseefrlab.github.io/funathon2024/](https://inseefrlab.github.io/funathon2024/)](img/sujets_funathon2024.png)
 
 
-## Un environnement idéal pour la formation {.smaller}
+# What is SSP Cloud?
 
-- Plateforme disponible depuis <https://datalab.sspcloud.fr/>
-    + Pour découvrir et expérimenter... 
-    + ... **Seulement avec des données en open data**
+
+## An ideal environment for training {.smaller}
+
+- Platform available at <https://datalab.sspcloud.fr/>
+    + To discover and experiment...
+    + ... **Only with open data**
 
 . . .
 
-- Une plateforme pour l'administration :
-    + Ouverte aux agents de l'Etat et à des formations en _data science_ (ENSAE...)
-    + Des serveurs hébergés à l'Insee
+- A platform for public administration:
+    + Open to civil servants and data science training programs (ENSAE...)
+    + Servers hosted at Insee
 
 . . .
 
 ::: {.callout-important}
 
-__Plateforme recommandée pour cet événement__
+__Recommended platform for this event__
 
-- Signalez-nous si vous ne pouvez créer de compte !
+- Let us know if you cannot create an account!
 
 :::
 
-## Un environnement idéal pour l'analyse de données
+## An ideal environment for data analysis
 
 ![](https://git.lab.sspcloud.fr/diit/presentation/energy-data-hack-2022/20220523-day_1-onyxia_onboarding/-/raw/main/slideshow/onyxia_galaxy.png){width=80%}
 
-## En plus, le SSP Cloud, c'est wahou ! 😍
+## Plus, SSP Cloud is amazing! 😍
 
 ![](https://git.lab.sspcloud.fr/diit/presentation/energy-data-hack-2022/20220523-day_1-onyxia_onboarding/-/raw/main/slideshow/macbook_onyxia.png)
 
 __<https://datalab.sspcloud.fr>__
 
 
-# Principe de la plateforme
+# Platform principles
 
 
-## Une plateforme pour la reproductibilité et la liberté {.smaller}
+## A platform for reproducibility and freedom {.smaller}
 
-- Vous passez un contrat avec le `SSP Cloud` pour créer
-un `RStudio` ou `Jupyter`
-    + Celui-ci tourne sur des
-serveurs distants auxquels vous accédez via le navigateur
-
-. . .
-
-- Environnement initialement [__standardisé__]{.blue2} :
-    + Tout le monde part du même socle minimal
-    + __Liberté__ d'installer des packages ou librairies Linux
-
+- You make a contract with `SSP Cloud` to create
+an `RStudio` or `Jupyter` environment
+    + It runs on remote servers
+you access through your browser
 
 . . .
 
-- Pour l'Insee: même principe que la plateforme LS3
+- Initially [__standardized__]{.blue2} environment:
+    + Everyone starts from the same minimal base
+    + __Freedom__ to install packages or Linux libraries
 
 
-## Une plateforme pour les bonnes pratiques {.smaller}
+. . .
+
+- For Insee: same principle as the LS3 platform
+
+
+## A platform for best practices {.smaller}
 
 <details>
 <summary>
-Dans un environnement différent
+In a different environment
 </summary>
 ![](https://ensae-reproductibilite.github.io/website/workflow1.png)
 
 _Source_: [https://ensae-reproductibilite.github.io](https://ensae-reproductibilite.github.io/website/chapters/application.html)
 </details>
 
-- [__Environnements temporaires__]{.orange} donc:
-    + Stocker le [__code__]{.blue2} dans un endroit pérenne: `Github`, `Gitlab`
-    + Stocker les [__données__]{.blue2} dans un endroit pérenne: `MinIO`
+- [__Temporary environments__]{.orange} therefore:
+    + Store [__code__]{.blue2} in a permanent place: `Github`, `Gitlab`
+    + Store [__data__]{.blue2} in a permanent place: `MinIO`
 
 
 <details>
 <summary>
-Dans le cadre du _Funathon_
+In the context of the _Funathon_
 </summary>
 ![](/img/config.png)
 </details>
 
 <details>
 <summary>
-Pour ceux voulant aller (vraiment) plus loin
+For those who want to go (really) further
 </summary>
 ![](https://ensae-reproductibilite.github.io/website/workflow2.png)
 
@@ -201,34 +201,34 @@ _Source_: [https://ensae-reproductibilite.github.io](https://ensae-reproductibil
 
 
 ::: {.callout-note}
-Les services durent plusieurs jours mais n'ont __pas vocation à persister__
+Services last several days but are __not meant to persist__
 :::
 
-## Des services standardisés pour les gouverner tous
+## Standardized services to rule them all
 
 ![](img/onyxia_galaxy_1.png)
 
-## Un système de stockage pérenne pour les données
+## A persistent storage system for data
 
 ![](img/onyxia_galaxy_2.png)
 
-## Quand {{< fa brands r-project >}} ou {{< fa brands python >}} ne suffisent plus
+## When {{< fa brands r-project >}} or {{< fa brands python >}} are not enough
 
-Des technologies spéciales pour les bases de données
+Special technologies for databases
 
 ![](img/onyxia_galaxy_3.png)
 
-## Quand {{< fa brands r-project >}} ou {{< fa brands python >}} ne suffisent plus
+## When {{< fa brands r-project >}} or {{< fa brands python >}} are not enough
 
-Des technologies adaptées aux données volumineuses
+Technologies suited for large-scale data
 
 ![](img/onyxia_galaxy_4.png)
 
 
 ## Bonus
 
-Les statisticiens ayant découvert le `SSPCloud`, quand ils
-doivent revenir à leur infra habituelle
+Statisticians who discovered `SSPCloud`, when they
+have to go back to their usual infrastructure
 
 ![](https://images.theconversation.com/files/504051/original/file-20230111-22-t4yssf.png?ixlib=rb-1.1.0&rect=22%2C2%2C873%2C530&q=45&auto=format&w=926&fit=clip)
 
@@ -237,171 +237,171 @@ doivent revenir à leur infra habituelle
 
 ## _Checklist_
 
-- [ ] Créer un compte
-- [ ] Se connecter
-- [ ] Trouver de l'aide
-- [ ] Lancer un service de _data science_ (`R`, `Jupyter`...)
-- [ ] Utiliser `Git` {{< fa brands git-alt >}}
-- [ ] Utiliser le stockage objet `MinIO`
+- [ ] Create an account
+- [ ] Log in
+- [ ] Find help
+- [ ] Launch a _data science_ service (`R`, `Jupyter`...)
+- [ ] Use `Git` {{< fa brands git-alt >}}
+- [ ] Use `MinIO` object storage
 
 
-## Créer un compte
+## Create an account
 
-- Aller sur <https://datalab.sspcloud.fr> puis `Connexion` et `Créer un compte`
-    + Utiliser une adresse mail d'un domaine autorisé ([@insee.fr]{.blue2}, [@..gouv.fr]{.blue2}...)
-    + Domaines [@gmail.com]{.blue2}, [@yahoo.fr]{.blue2}... non admis
-    + Seuls les domaines institutionnels sont autorisés (universités, écoles, administrations...)  
-
-. . .
-
-- Si besoin, demandez-nous pour rajouter un domaine
- 
-
-## Se connecter
-
-- Aller sur <https://datalab.sspcloud.fr>
-- Cliquer sur `Connexion`
-    + Agents publics: la connexion `AgentConnect` est très pratique
-
-## Trouver de l'aide
-
-- Documentation : <https://docs.sspcloud.fr/>
+- Go to <https://datalab.sspcloud.fr> then `Login` and `Create an account`
+    + Use an email address from an authorized domain ([@insee.fr]{.blue2}, [@..gouv.fr]{.blue2}...)
+    + Domains [@gmail.com]{.blue2}, [@yahoo.fr]{.blue2}... not allowed
+    + Only institutional domains are authorized (universities, schools, administrations...)
 
 . . .
 
-- Portail de la formation à mettre en ⭐️ : <https://www.sspcloud.fr/formation>
+- If needed, ask us to add a domain
+
+
+## Log in
+
+- Go to <https://datalab.sspcloud.fr>
+- Click on `Login`
+    + Civil servants: the `AgentConnect` login is very convenient
+
+## Find help
+
+- Documentation: <https://docs.sspcloud.fr/>
 
 . . .
 
-- Poser des questions sur les fils `Tchap`:
-    + [`SSPCloud`](https://matrix.to/#/#SSPCloudXDpAw6v:agent.finances.tchap.gouv.fr) de manière générale ;
-    + [`Funathon 2024`](https://matrix.to/#/#funathon2024:agent.finances.tchap.gouv.fr) pendant cet événement ;
+- Training portal to bookmark ⭐️: <https://www.sspcloud.fr/formation>
 
-## Lancer un service de _data science_
+. . .
+
+- Ask questions on `Tchap` channels:
+    + [`SSPCloud`](https://matrix.to/#/#SSPCloudXDpAw6v:agent.finances.tchap.gouv.fr) in general;
+    + [`Funathon 2024`](https://matrix.to/#/#funathon2024:agent.finances.tchap.gouv.fr) during this event;
+
+## Launch a _data science_ service
 
 <https://docs.sspcloud.fr/onyxia-guide/premiere-utilisation>
 
-- Chaque service possède un `README`, [__lisez-le 😉__]{.red2}
+- Each service has a `README`, [__read it 😉__]{.red2}
 
 . . .
 
-- Chaque service est protégé par un mot de passe, __copiez-le__
+- Each service is protected by a password, __copy it__
 
-. . . 
+. . .
 
-- Les **services** sont **éphémères**  
-    + **Utilisez `Git`** {{< fa brands git-alt >}} (avec `Github` {{< fa brands github >}} ou `Gitlab` {{< fa brands gitlab >}}) pour sauvegarder vos _notebooks_ et codes  
-    + **Utilisez `MinIO`** pour sauvegarder vos données
-    + __sinon vous pourriez perdre votre travail__
+- **Services** are **ephemeral**
+    + **Use `Git`** {{< fa brands git-alt >}} (with `Github` {{< fa brands github >}} or `Gitlab` {{< fa brands gitlab >}}) to save your _notebooks_ and code
+    + **Use `MinIO`** to save your data
+    + __otherwise you might lose your work__
 
 
-## Utiliser `Git` {{< fa brands git-alt >}}
+## Using `Git` {{< fa brands git-alt >}}
 
 <https://docs.sspcloud.fr/onyxia-guide/controle-de-version>
 
-- Obligatoire pour ne pas perdre de travail (_notebooks_ et codes)
-- Indispensable pour collaborer
-- Compatible avec la forge de votre choix (`GitHub`, `GitLab`...)
-- _Token_ d'identification (cf. suite) peut être stocké sur le SSPCloud
+- Mandatory to avoid losing work (_notebooks_ and code)
+- Essential for collaboration
+- Compatible with your forge of choice (`GitHub`, `GitLab`...)
+- Authentication _token_ (see below) can be stored on SSPCloud
 
-## Utiliser le stockage objet `MinIO`
+## Using `MinIO` object storage
 
 <https://docs.sspcloud.fr/onyxia-guide/stockage-de-donnees>
 
-- Pour déposer ses données comme si on avait un service de fichier local
-- Chaque utilisateur a un bucket personnel
-- Possibilité de rendre des données publiques
-- Librairies `Python` (`Boto3` ou `S3Fs`) ou `R` (`aws.s3`)
+- To store your data as if you had a local file service
+- Each user has a personal bucket
+- Possibility to make data public
+- `Python` libraries (`Boto3` or `S3Fs`) or `R` (`aws.s3`)
 
-## Utiliser le stockage objet `MinIO`
+## Using `MinIO` object storage
 
 ![](/img/minio1.png)
 
-## Lancer un service prêt-à-l'emploi
+## Launch a ready-to-use service
 
-- Un exemple avec {{< fa brands r-project >}} ([Tableau de bord](https://github.com/InseeFrLab/funathon2024_sujet2))<br>
+- An example with {{< fa brands r-project >}} ([Dashboard](https://github.com/InseeFrLab/funathon2024_sujet2))<br>
 
 ```{=html}
 <a href="https://datalab.sspcloud.fr/launcher/ide/rstudio?version=1.15.25&autoLaunch=false&networking.user.enabled=true&git.repository=«https%3A%2F%2Fgithub.com%2FInseeFrLab%2Ffunathon2024_sujet2.git»&onyxia.friendlyName=«config-funathon2024»&kubernetes.role=«admin»" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/SSP%20Cloud-Ouvrir_dans_RStudio-blue?logo=rstudio&amp;logoColor=blue" alt="Onyxia"></a>
 ```
 
-- Un exemple avec `Python` {{< fa brands python >}} ([Sujet d'analyse textuelle](https://github.com/InseeFrLab/funathon2024_sujet4))
+- An example with `Python` {{< fa brands python >}} ([Text analysis topic](https://github.com/InseeFrLab/funathon2024_sujet4))
 
 [![](https://img.shields.io/badge/SSPcloud-Tester%20via%20SSP--cloud-informational&color=yellow?logo=Python)](https://datalab.sspcloud.fr/launcher/ide/jupyter-python?version=1.13.36&autoLaunch=true&init.personalInit=«https%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Ffunathon2024_sujet4%2Fmain%2Finit.sh»&init.personalInitArgs=«https%3A%2F%2Fgithub.com%2FInseeFrLab%2Ffunathon2024_sujet4.git»&onyxia.friendlyName=«funathon2024-sujet4»)
 
 ::: {.callout-warning}
-## Pour le lien de lancement `Python`
-N'oubliez pas de remplacer dans l'onglet `Init` l'URL du dépôt pré-rempli par le vôtre (l'URL de votre _fork_)
+## For the `Python` launch link
+Don't forget to replace the pre-filled repository URL in the `Init` tab with your own (the URL of your _fork_)
 :::
 
-# `Git` {{< fa brands git-alt >}}: quelques concepts
+# `Git` {{< fa brands git-alt >}}: a few concepts
 
-## Pourquoi faire du contrôle de version ? 
+## Why use version control?
 
-- [__Construire__]{.blue2} et [__naviguer__]{.blue2} à travers l'[**historique**]{.orange} de son projet
-
-. . .
-
-- La [**collaboration**]{.orange} rendue [__simple__]{.blue2} et [__efficace__]{.blue2}
+- [__Build__]{.blue2} and [__navigate__]{.blue2} through your project's [**history**]{.orange}
 
 . . .
 
-- Améliorer la [**reproductibilité**]{.orange} de ses projets
+- [**Collaboration**]{.orange} made [__simple__]{.blue2} and [__efficient__]{.blue2}
 
 . . .
 
-- Améliorer la [**visibilité**]{.orange} de ses projets
+- Improve the [**reproducibility**]{.orange} of your projects
+
+. . .
+
+- Improve the [**visibility**]{.orange} of your projects
 
 
 ::: {.callout-note}
-Plus d'éléments dans la [formation officielle](https://inseefrlab.github.io/formation-bonnes-pratiques-git-R/)
+More details in the [official training](https://inseefrlab.github.io/formation-bonnes-pratiques-git-R/)
 :::
 
 
-## Gymnastique
+## Workflow
 
 ![](https://inseefrlab.github.io/formation-bonnes-pratiques-git-R/slides/img/localremote.png){fig-align="center" height=400}
 
-- Par défaut, le dépôt distant porte l'alias `origin`
+- By default, the remote repository has the alias `origin`
 
-## Ressources supplémentaires {.smaller}
+## Additional resources {.smaller}
 
-- Pour **aller plus loin**:
-    - [Formation aux bonnes pratiques avec `Git` et `R`](https://inseefrlab.github.io/formation-bonnes-pratiques-git-R)
-    - [Introduction à `Git` pour `Python`](https://pythonds.linogaliana.fr/exogit/)
-    - La [documentation `utilitR`](https://www.book.utilitr.org/) propose plusieurs chapitres sur `Git`
-    - La [Bible](https://git-scm.com/book/en/v2) de l'usage de `Git`
+- To **go further**:
+    - [Best practices training with `Git` and `R`](https://inseefrlab.github.io/formation-bonnes-pratiques-git-R)
+    - [Introduction to `Git` for `Python`](https://pythonds.linogaliana.fr/exogit/)
+    - The [`utilitR` documentation](https://www.book.utilitr.org/) has several chapters on `Git`
+    - The [Bible](https://git-scm.com/book/en/v2) of `Git` usage
 
 
-# Illustration par la pratique avec `RStudio` 🚀
+# Hands-on illustration with `RStudio` 🚀
 
-## Objectif {.smaller}
+## Objective {.smaller}
 
-- Découvrir `S3`
-- Découvrir `Git` à travers l'interface `RStudio`
-- Découvrir l'interaction entre `Git`, `RStudio` et `Gitlab`
-- Se familiariser avec quelques concepts de `Git`
+- Discover `S3`
+- Discover `Git` through the `RStudio` interface
+- Discover the interaction between `Git`, `RStudio` and `Gitlab`
+- Get familiar with some `Git` concepts
 
-. . . 
+. . .
 
-- __[Méthode préconisée pour `Git`]{.blue2}__:
-    + On propose de travailler sur la même branche...
-    + ... mais des fichiers séparés.
-    + Evite l'utilisation de branches tout en limitant les conflits.
+- __[Recommended method for `Git`]{.blue2}__:
+    + We suggest working on the same branch...
+    + ... but on separate files.
+    + Avoids using branches while limiting conflicts.
 
 
 . . .
 
-- **Trouver de l'aide**:
-    - Pour toute question : le salon Tchap [Insee-Git-Gitlab](https://tchap.gouv.fr/#/room/#InseeGitGitlablPtu8f1Frns:agent.finances.tchap.gouv.fr)
-    - A l'Insee : la [documentation utilisateurs](https://gitlab.insee.fr/infrastructure/lss/ausv3/documentation-utilisateurs/-/wikis/Logiciels/Git) pour l'utilisation de `Git` sur `AUS`
-    - Sollicitez vos collègues utilisateurs de `Git` !
+- **Find help**:
+    - For any question: the Tchap room [Insee-Git-Gitlab](https://tchap.gouv.fr/#/room/#InseeGitGitlablPtu8f1Frns:agent.finances.tchap.gouv.fr)
+    - At Insee: the [user documentation](https://gitlab.insee.fr/infrastructure/lss/ausv3/documentation-utilisateurs/-/wikis/Logiciels/Git) for using `Git` on `AUS`
+    - Ask your colleagues who use `Git`!
 
 
 
-## Démonstration 🚀
+## Demo 🚀
 
-Exemple à partir du [sujet 2](https://github.com/InseeFrLab/funathon2023_sujet2)
+Example from [topic 2](https://github.com/InseeFrLab/funathon2023_sujet2)
 
 ```{=html}
 <a href="https://datalab.sspcloud.fr/launcher/ide/rstudio?version=1.15.25&autoLaunch=false&networking.user.enabled=true&git.repository=«https%3A%2F%2Fgithub.com%2FInseeFrLab%2Ffunathon2024_sujet2.git»&onyxia.friendlyName=«config-funathon2024»&kubernetes.role=«admin»" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/SSP%20Cloud-Ouvrir_dans_RStudio-blue?logo=rstudio&amp;logoColor=blue" alt="Onyxia"></a>
@@ -409,19 +409,19 @@ Exemple à partir du [sujet 2](https://github.com/InseeFrLab/funathon2023_sujet2
 
 
 
-## Aide-mémoire `S3`
+## `S3` cheat sheet
 
 <details>
-<summary>Exemples issus d'[utilitR](https://www.book.utilitr.org/01_r_insee/fiche_utiliser_rstudio_sspcloud#liens-utiles)
+<summary>Examples from [utilitR](https://www.book.utilitr.org/01_r_insee/fiche_utiliser_rstudio_sspcloud#liens-utiles)
 </summary>
 
 ```r
 bucket <- "donnees-insee"
 aws.s3::get_bucket(bucket, region = "")
-df <- 
+df <-
   aws.s3::s3read_using(
     FUN = data.table::fread,
-    # Mettre les options de FUN ici
+    # Put FUN options here
     object = "diffusion/FILOSOFI/2016/FILOSOFI_COM.csv",
     bucket = "donnees-insee",
     opts = list("region" = "")
@@ -429,24 +429,24 @@ df <-
 aws.s3::s3write_using(
   df,
   FUN = data.table::fwrite,
-  # Les options de fread sont ici
+  # fread options go here
   sep = " ;",
   col.names = TRUE,
   object = "data/filosofi2016_example.csv",
-  bucket = "MON_BUCKET_A_REMPLACER",
+  bucket = "MY_BUCKET_TO_REPLACE",
   opts = list("region" = "")
 )
 ```
 </details>
 
-Pour lister les fichiers dans un _bucket_:
+To list files in a _bucket_:
 
 ```r
 bucket <- "projet-funathon"
 aeroports <- aws.s3::get_bucket(bucket, region = "", prefix = "2024/sujet2/")
 ```
 
-Pour lire un fichier directement:
+To read a file directly:
 
 ```r
 bucket <- "donnees-funathon"
@@ -464,44 +464,44 @@ leaflet(aeroports) %>% addTiles() %>%
 
 
 
-# Illustration par la pratique avec `Jupyter` 🚀
+# Hands-on illustration with `Jupyter` 🚀
 
-## Démonstration 🚀
+## Demo 🚀
 
-Exemple avec `Python` {{< fa brands python >}} ([Sujet d'analyse textuelle](https://github.com/InseeFrLab/funathon2024_sujet4))
+Example with `Python` {{< fa brands python >}} ([Text analysis topic](https://github.com/InseeFrLab/funathon2024_sujet4))
 
 [![](https://img.shields.io/badge/SSPcloud-Tester%20via%20SSP--cloud-informational&color=yellow?logo=Python)](https://datalab.sspcloud.fr/launcher/ide/jupyter-python?version=1.13.36&autoLaunch=true&init.personalInit=«https%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Ffunathon2024_sujet4%2Fmain%2Finit.sh»&init.personalInitArgs=«https%3A%2F%2Fgithub.com%2FInseeFrLab%2Ffunathon2024_sujet4.git»&onyxia.friendlyName=«funathon2024-sujet4»)
 
 
-## Aide-mémoire `S3`
+## `S3` cheat sheet
 
-Voir <https://pythonds.linogaliana.fr/content/modern-ds/s3.html>
+See <https://pythonds.linogaliana.fr/content/modern-ds/s3.html>
 
 ## `Git`
 
-Voir <https://pythonds.linogaliana.fr/content/git/exogit.html>
+See <https://pythonds.linogaliana.fr/content/git/exogit.html>
 
 ## Questions
 
 
-## Le funathon est en cours
+## The funathon is underway
 
-- Vous pouvez rejoindre les salles de répartition sur Zoom en fonction des sujets
-- Vous pouvez poser vos questions sur Tchap
+- You can join the breakout rooms on Zoom by topic
+- You can ask your questions on Tchap
 
 ![](https://minio.lab.sspcloud.fr/lgaliana/generative-art/pythonds/waiting_pokemon.jfif){width="30%" fig-align="center"}
 
 
-## Le funathon est en cours (assistance en pause)
+## The funathon is underway (support on break)
 
-- Les assistants aussi ont besoin d'une pause café
+- The assistants also need a coffee break
 
 ![](https://minio.lab.sspcloud.fr/lgaliana/generative-art/pythonds/cafe_pokemon.jfif){width="30%" fig-align="center"}
 
 
-## Le funathon est en cours (pause déjeuner)
+## The funathon is underway (lunch break)
 
-- N'oubliez pas d'aller manger
+- Don't forget to eat
 
 ![](https://minio.lab.sspcloud.fr/lgaliana/generative-art/pythonds/eat_pokemon.jfif){width="30%" fig-align="center"}
 
