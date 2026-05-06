@@ -22,9 +22,7 @@ css: custom.css
 from: markdown+emoji
 ---
 
-# The Funathon
-
-## What is a Funathon? {.smaller}
+## What is the AIML4OS Funathon? {.smaller}
 
 . . .
 
