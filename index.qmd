@@ -1,7 +1,5 @@
 ---
-title: Funathon Presentation
-subtitle: |
-  **[And especially [`SSPCloud`](https://datalab.sspcloud.fr/?lang=fr) and `Git` {{< fa brands git-alt >}}]{.orange}**
+title: Presentation of the AIML4OS Funathon
 author: Olivier Meslin
 slide-number: true
 footer: |
@@ -171,7 +169,7 @@ This onboarding session will explain:
 
 :::
 
-## Practical details {.smaller}
+<!-- ## Practical details {.smaller}
 
 - [__100% virtual event over 2 days__]{.blue2}:
     + [First day]{.orange}: introduction at __9:30am__ ;
@@ -615,4 +613,4 @@ See <https://pythonds.linogaliana.fr/content/git/exogit.html>
 
 ![](https://minio.lab.sspcloud.fr/lgaliana/generative-art/pythonds/eat_pokemon.jfif){width="30%" fig-align="center"}
 
-
+ -->
