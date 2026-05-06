@@ -70,12 +70,39 @@ Funathon projects are end-to-end AI and ML projects demonstrating how to carry o
 
 ::: {.incremental}
 
-- Each project contains: [__data__]{.blue2}, [__code__]{.blue2}, complete technical configuration, detailed documentation, and exercises with hints and answers.
+- Each project contains: [__data__]{.blue2}, [__code__]{.blue2}, complete technical [__configuration__]{.blue2}, detailed [__documentation__]{.blue2}, and exercises with hints and [__answers__]{.blue2}.
 - Projects are [__well-suited for beginners__]{.orange} with minimal technical requirements.
 - [__Detailed solutions__]{.orange} are included so that no one gets stuck.
 - After the funathon, all projects will remain available on Github.
 
 :::
+
+## What will you learn? {.smaller}
+
+
+- Discover [__AI and ML methods, tools and best practices__]{.orange};
+
+. . .
+
+- Work on [__real-life AIML use cases__]{.orange} relevant for official statistics.
+
+. . .
+
+- Get familiar with [__cloud-native work environments__]{.orange} such as SSPCloud.
+
+## Requirements {.smaller}
+
+The funathon is [__open to anyone__]{.orange} willing to develop skills in AI and ML.
+
+. . .
+
+This being said, you'll benefit more from the funathon if you have:
+
+- a basic knowledge of [__Git__]{.orange} (`git clone`, `git pull`, `git push`...);
+- a basic knowledge of [__Python__]{.orange};
+- Some experience in ML and AI is not necessary (but useful, of course!).
+
+
 
 ## Schedule {.smaller}
 
