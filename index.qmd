@@ -147,6 +147,8 @@ __Two-step process:__
 - Register via the registration link (see the event webpage).
 - Organizers will confirm your registration by email around [__May 15th__]{.orange}.
 
+. . .
+
 ::: {.callout-important}
 Due to capacity constraints on SSPCloud, some teams may not be allowed to participate if the number of registrants is too high.
 :::
