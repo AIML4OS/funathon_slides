@@ -1,0 +1,254 @@
+[
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Funathon Presentation",
+    "section": "Overview",
+    "text": "Overview\n\n\n\n4 topics to explore different areas of data science\n\nNot a competition but step-by-step tutorials\nFeel free to try new things 😍 \n\n“Immediate takeoff for data science”\n\nTheme: statistics on civil aviation\nOrganization: innovation teams from Insee & DGAC \n\nEntry point : inseefrlab.github.io/funathon2024/\n\n\n\n\n\n\n\n\n\n\nLast year’s resources\n\n\nAll of last year’s resources (“From field to plate”) can be found at inseefrlab.github.io/funathon2023/"
+  },
+  {
+    "objectID": "index.html#practical-details",
+    "href": "index.html#practical-details",
+    "title": "Funathon Presentation",
+    "section": "Practical details",
+    "text": "Practical details\n\n100% virtual event over 2 days:\n\nFirst day: introduction at 9:30am ;\nSecond day: end of work on topics at 4:30pm, then presentation and conclusion\n\n\n\n\nSupport on Tchap and Zoom (links below 👇️):\n\nGuaranteed assistance: 10am-5:30pm (except lunch 🍔) ;\nDon’t get stuck, ask questions!\n\n\n\n\n\n\n\n\nUseful links\n\n\n\nTchap channel Funathon 2024\nZoom channel over both days"
+  },
+  {
+    "objectID": "index.html#the-4-topics",
+    "href": "index.html#the-4-topics",
+    "title": "Funathon Presentation",
+    "section": "The 4 topics",
+    "text": "The 4 topics\n\n and  resources on open data from DGAC :\n\n2 topics allow you to use \n3 topics allow you to use \nTechnical levels indicated on the topics\n\n\n\n\nComplete tutorials with solutions\n\nLook for the answer before checking the solution, it’s the best way to learn!\nSecondary goal: learn Git  and reproducibility\n\n\n\n\n\n\n\n\nMore fun as a team 😺\n\n\nFeel free to work on the topics as a team"
+  },
+  {
+    "objectID": "index.html#the-4-topics-1",
+    "href": "index.html#the-4-topics-1",
+    "title": "Funathon Presentation",
+    "section": "The 4 topics",
+    "text": "The 4 topics\nPresentation of the 4 topics\n\nFind the topics at inseefrlab.github.io/funathon2024/"
+  },
+  {
+    "objectID": "index.html#an-ideal-environment-for-training",
+    "href": "index.html#an-ideal-environment-for-training",
+    "title": "Funathon Presentation",
+    "section": "An ideal environment for training",
+    "text": "An ideal environment for training\n\nPlatform available at https://datalab.sspcloud.fr/\n\nTo discover and experiment…\n… Only with open data\n\n\n\n\nA platform for public administration:\n\nOpen to civil servants and data science training programs (ENSAE…)\nServers hosted at Insee\n\n\n\n\n\n\n\n\n\n\nImportant\n\n\nRecommended platform for this event\n\nLet us know if you cannot create an account!"
+  },
+  {
+    "objectID": "index.html#an-ideal-environment-for-data-analysis",
+    "href": "index.html#an-ideal-environment-for-data-analysis",
+    "title": "Funathon Presentation",
+    "section": "An ideal environment for data analysis",
+    "text": "An ideal environment for data analysis"
+  },
+  {
+    "objectID": "index.html#plus-ssp-cloud-is-amazing",
+    "href": "index.html#plus-ssp-cloud-is-amazing",
+    "title": "Funathon Presentation",
+    "section": "Plus, SSP Cloud is amazing! 😍",
+    "text": "Plus, SSP Cloud is amazing! 😍\n\nhttps://datalab.sspcloud.fr"
+  },
+  {
+    "objectID": "index.html#a-platform-for-reproducibility-and-freedom",
+    "href": "index.html#a-platform-for-reproducibility-and-freedom",
+    "title": "Funathon Presentation",
+    "section": "A platform for reproducibility and freedom",
+    "text": "A platform for reproducibility and freedom\n\nYou make a contract with SSP Cloud to create an RStudio or Jupyter environment\n\nIt runs on remote servers you access through your browser\n\n\n\n\nInitially standardized environment:\n\nEveryone starts from the same minimal base\nFreedom to install packages or Linux libraries\n\n\n\n\n\nFor Insee: same principle as the LS3 platform"
+  },
+  {
+    "objectID": "index.html#a-platform-for-best-practices",
+    "href": "index.html#a-platform-for-best-practices",
+    "title": "Funathon Presentation",
+    "section": "A platform for best practices",
+    "text": "A platform for best practices\n\n\nIn a different environment\n\n\nSource: https://ensae-reproductibilite.github.io\n\n\nTemporary environments therefore:\n\nStore code in a permanent place: Github, Gitlab\nStore data in a permanent place: MinIO\n\n\n\n\nIn the context of the Funathon\n\n\n\n\n\nFor those who want to go (really) further\n\n\nSource: https://ensae-reproductibilite.github.io\n\n\n\n\n\n\n\nNote\n\n\nServices last several days but are not meant to persist"
+  },
+  {
+    "objectID": "index.html#standardized-services-to-rule-them-all",
+    "href": "index.html#standardized-services-to-rule-them-all",
+    "title": "Funathon Presentation",
+    "section": "Standardized services to rule them all",
+    "text": "Standardized services to rule them all"
+  },
+  {
+    "objectID": "index.html#a-persistent-storage-system-for-data",
+    "href": "index.html#a-persistent-storage-system-for-data",
+    "title": "Funathon Presentation",
+    "section": "A persistent storage system for data",
+    "text": "A persistent storage system for data"
+  },
+  {
+    "objectID": "index.html#when-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e647320722d70726f6a656374203e7d7d-or-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e647320707974686f6e203e7d7d-are-not-enough",
+    "href": "index.html#when-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e647320722d70726f6a656374203e7d7d-or-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e647320707974686f6e203e7d7d-are-not-enough",
+    "title": "Funathon Presentation",
+    "section": "When  or  are not enough",
+    "text": "When  or  are not enough\nSpecial technologies for databases"
+  },
+  {
+    "objectID": "index.html#when-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e647320722d70726f6a656374203e7d7d-or-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e647320707974686f6e203e7d7d-are-not-enough-1",
+    "href": "index.html#when-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e647320722d70726f6a656374203e7d7d-or-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e647320707974686f6e203e7d7d-are-not-enough-1",
+    "title": "Funathon Presentation",
+    "section": "When  or  are not enough",
+    "text": "When  or  are not enough\nTechnologies suited for large-scale data"
+  },
+  {
+    "objectID": "index.html#bonus",
+    "href": "index.html#bonus",
+    "title": "Funathon Presentation",
+    "section": "Bonus",
+    "text": "Bonus\nStatisticians who discovered SSPCloud, when they have to go back to their usual infrastructure"
+  },
+  {
+    "objectID": "index.html#checklist",
+    "href": "index.html#checklist",
+    "title": "Funathon Presentation",
+    "section": "Checklist",
+    "text": "Checklist\n\nCreate an account\nLog in\nFind help\nLaunch a data science service (R, Jupyter…)\nUse Git \nUse MinIO object storage"
+  },
+  {
+    "objectID": "index.html#create-an-account",
+    "href": "index.html#create-an-account",
+    "title": "Funathon Presentation",
+    "section": "Create an account",
+    "text": "Create an account\n\nGo to https://datalab.sspcloud.fr then Login and Create an account\n\nUse an email address from an authorized domain (@insee.fr, @..gouv.fr…)\nDomains @gmail.com, @yahoo.fr… not allowed\nOnly institutional domains are authorized (universities, schools, administrations…)\n\n\n\n\nIf needed, ask us to add a domain"
+  },
+  {
+    "objectID": "index.html#log-in",
+    "href": "index.html#log-in",
+    "title": "Funathon Presentation",
+    "section": "Log in",
+    "text": "Log in\n\nGo to https://datalab.sspcloud.fr\nClick on Login\n\nCivil servants: the AgentConnect login is very convenient"
+  },
+  {
+    "objectID": "index.html#find-help",
+    "href": "index.html#find-help",
+    "title": "Funathon Presentation",
+    "section": "Find help",
+    "text": "Find help\n\nDocumentation: https://docs.sspcloud.fr/\n\n\n\nTraining portal to bookmark ⭐️: https://www.sspcloud.fr/formation\n\n\n\n\nAsk questions on Tchap channels:\n\nSSPCloud in general;\nFunathon 2024 during this event;"
+  },
+  {
+    "objectID": "index.html#launch-a-data-science-service",
+    "href": "index.html#launch-a-data-science-service",
+    "title": "Funathon Presentation",
+    "section": "Launch a data science service",
+    "text": "Launch a data science service\nhttps://docs.sspcloud.fr/onyxia-guide/premiere-utilisation\n\nEach service has a README, read it 😉\n\n\n\nEach service is protected by a password, copy it\n\n\n\n\nServices are ephemeral\n\nUse Git  (with Github  or Gitlab ) to save your notebooks and code\nUse MinIO to save your data\notherwise you might lose your work"
+  },
+  {
+    "objectID": "index.html#using-git-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e6473206769742d616c74203e7d7d",
+    "href": "index.html#using-git-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e6473206769742d616c74203e7d7d",
+    "title": "Funathon Presentation",
+    "section": "Using Git ",
+    "text": "Using Git \nhttps://docs.sspcloud.fr/onyxia-guide/controle-de-version\n\nMandatory to avoid losing work (notebooks and code)\nEssential for collaboration\nCompatible with your forge of choice (GitHub, GitLab…)\nAuthentication token (see below) can be stored on SSPCloud"
+  },
+  {
+    "objectID": "index.html#using-minio-object-storage",
+    "href": "index.html#using-minio-object-storage",
+    "title": "Funathon Presentation",
+    "section": "Using MinIO object storage",
+    "text": "Using MinIO object storage\nhttps://docs.sspcloud.fr/onyxia-guide/stockage-de-donnees\n\nTo store your data as if you had a local file service\nEach user has a personal bucket\nPossibility to make data public\nPython libraries (Boto3 or S3Fs) or R (aws.s3)"
+  },
+  {
+    "objectID": "index.html#using-minio-object-storage-1",
+    "href": "index.html#using-minio-object-storage-1",
+    "title": "Funathon Presentation",
+    "section": "Using MinIO object storage",
+    "text": "Using MinIO object storage"
+  },
+  {
+    "objectID": "index.html#launch-a-ready-to-use-service",
+    "href": "index.html#launch-a-ready-to-use-service",
+    "title": "Funathon Presentation",
+    "section": "Launch a ready-to-use service",
+    "text": "Launch a ready-to-use service\n\nAn example with  (Dashboard)\n\n\n\nAn example with Python  (Text analysis topic)\n\n\n\n\n\n\n\n\nFor the Python launch link\n\n\nDon’t forget to replace the pre-filled repository URL in the Init tab with your own (the URL of your fork)"
+  },
+  {
+    "objectID": "index.html#why-use-version-control",
+    "href": "index.html#why-use-version-control",
+    "title": "Funathon Presentation",
+    "section": "Why use version control?",
+    "text": "Why use version control?\n\nBuild and navigate through your project’s history\n\n\n\nCollaboration made simple and efficient\n\n\n\n\nImprove the reproducibility of your projects\n\n\n\n\nImprove the visibility of your projects\n\n\n\n\n\n\n\nNote\n\n\nMore details in the official training"
+  },
+  {
+    "objectID": "index.html#workflow",
+    "href": "index.html#workflow",
+    "title": "Funathon Presentation",
+    "section": "Workflow",
+    "text": "Workflow\n\n\n\n\n\n\nBy default, the remote repository has the alias origin"
+  },
+  {
+    "objectID": "index.html#additional-resources",
+    "href": "index.html#additional-resources",
+    "title": "Funathon Presentation",
+    "section": "Additional resources",
+    "text": "Additional resources\n\nTo go further:\n\nBest practices training with Git and R\nIntroduction to Git for Python\nThe utilitR documentation has several chapters on Git\nThe Bible of Git usage"
+  },
+  {
+    "objectID": "index.html#objective",
+    "href": "index.html#objective",
+    "title": "Funathon Presentation",
+    "section": "Objective",
+    "text": "Objective\n\nDiscover S3\nDiscover Git through the RStudio interface\nDiscover the interaction between Git, RStudio and Gitlab\nGet familiar with some Git concepts\n\n\n\nRecommended method for Git:\n\nWe suggest working on the same branch…\n… but on separate files.\nAvoids using branches while limiting conflicts.\n\n\n\n\n\nFind help:\n\nFor any question: the Tchap room Insee-Git-Gitlab\nAt Insee: the user documentation for using Git on AUS\nAsk your colleagues who use Git!"
+  },
+  {
+    "objectID": "index.html#demo",
+    "href": "index.html#demo",
+    "title": "Funathon Presentation",
+    "section": "Demo 🚀",
+    "text": "Demo 🚀\nExample from topic 2"
+  },
+  {
+    "objectID": "index.html#s3-cheat-sheet",
+    "href": "index.html#s3-cheat-sheet",
+    "title": "Funathon Presentation",
+    "section": "S3 cheat sheet",
+    "text": "S3 cheat sheet\n\n\nExamples from utilitR\n\nbucket &lt;- \"donnees-insee\"\naws.s3::get_bucket(bucket, region = \"\")\ndf &lt;-\n  aws.s3::s3read_using(\n    FUN = data.table::fread,\n    # Put FUN options here\n    object = \"diffusion/FILOSOFI/2016/FILOSOFI_COM.csv\",\n    bucket = \"donnees-insee\",\n    opts = list(\"region\" = \"\")\n  )\naws.s3::s3write_using(\n  df,\n  FUN = data.table::fwrite,\n  # fread options go here\n  sep = \" ;\",\n  col.names = TRUE,\n  object = \"data/filosofi2016_example.csv\",\n  bucket = \"MY_BUCKET_TO_REPLACE\",\n  opts = list(\"region\" = \"\")\n)\n\nTo list files in a bucket:\nbucket &lt;- \"projet-funathon\"\naeroports &lt;- aws.s3::get_bucket(bucket, region = \"\", prefix = \"2024/sujet2/\")\nTo read a file directly:\nbucket &lt;- \"donnees-funathon\"\naeroports &lt;- aws.s3::s3read_using(\n  object = objets$Contents$Key,\n  FUN = sf::st_read,\n  bucket = bucket,\n  opts = list(region = \"\")\n)\n\nlibrary(leaflet)\nleaflet(aeroports) %&gt;% addTiles() %&gt;%\n  addMarkers(popup = ~Nom)"
+  },
+  {
+    "objectID": "index.html#demo-1",
+    "href": "index.html#demo-1",
+    "title": "Funathon Presentation",
+    "section": "Demo 🚀",
+    "text": "Demo 🚀\nExample with Python  (Text analysis topic)"
+  },
+  {
+    "objectID": "index.html#s3-cheat-sheet-1",
+    "href": "index.html#s3-cheat-sheet-1",
+    "title": "Funathon Presentation",
+    "section": "S3 cheat sheet",
+    "text": "S3 cheat sheet\nSee https://pythonds.linogaliana.fr/content/modern-ds/s3.html"
+  },
+  {
+    "objectID": "index.html#git",
+    "href": "index.html#git",
+    "title": "Funathon Presentation",
+    "section": "Git",
+    "text": "Git\nSee https://pythonds.linogaliana.fr/content/git/exogit.html"
+  },
+  {
+    "objectID": "index.html#questions",
+    "href": "index.html#questions",
+    "title": "Funathon Presentation",
+    "section": "Questions",
+    "text": "Questions"
+  },
+  {
+    "objectID": "index.html#the-funathon-is-underway",
+    "href": "index.html#the-funathon-is-underway",
+    "title": "Funathon Presentation",
+    "section": "The funathon is underway",
+    "text": "The funathon is underway\n\nYou can join the breakout rooms on Zoom by topic\nYou can ask your questions on Tchap"
+  },
+  {
+    "objectID": "index.html#the-funathon-is-underway-support-on-break",
+    "href": "index.html#the-funathon-is-underway-support-on-break",
+    "title": "Funathon Presentation",
+    "section": "The funathon is underway (support on break)",
+    "text": "The funathon is underway (support on break)\n\nThe assistants also need a coffee break"
+  },
+  {
+    "objectID": "index.html#the-funathon-is-underway-lunch-break",
+    "href": "index.html#the-funathon-is-underway-lunch-break",
+    "title": "Funathon Presentation",
+    "section": "The funathon is underway (lunch break)",
+    "text": "The funathon is underway (lunch break)\n\nDon’t forget to eat"
+  }
+]
