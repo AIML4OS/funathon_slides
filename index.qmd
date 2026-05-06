@@ -26,7 +26,10 @@ from: markdown+emoji
 
 # The Funathon
 
-## Overview {.smaller}
+## What is a Funathon? {.smaller}
+
+A funathon is a special sort of event, halfway between a training session and a hackathon. It aims at giving statisticians an opportunity to __learn and apply machine learning and IA methods in a collaborative and supportive environment__. Over two days, participants will work in teams on end-to-end ML and AI projects provided by the organizers. Throughout the event, the organizing team will provide support to participants over Zoom whenever needed. All projects will be carried out on the (amazing) SSPCloud platform. 
+
 
 :::: {.columns}
 
@@ -58,6 +61,76 @@ from: markdown+emoji
 ## Last year's resources
 
 All of last year's resources (_"From field to plate"_) can be found at [inseefrlab.github.io/funathon2023/](https://inseefrlab.github.io/funathon2023/)
+
+:::
+
+## What do projects consist in? {.smaller}
+
+Funathon projects are end-to-end AI and ML projects demonstrating how to carry out a complex statistical task (codification, satellite imagery processing...).
+
+::: {.incremental}
+
+- Each project contains: [__data__]{.blue2}, [__code__]{.blue2}, complete technical configuration, detailed documentation, and exercises with hints and answers.
+- Projects are [__well-suited for beginners__]{.orange} with minimal technical requirements.
+- [__Detailed solutions__]{.orange} are included so that no one gets stuck.
+- After the funathon, all projects will remain available on Github.
+
+:::
+
+## Schedule {.smaller}
+
+The 2026 funathon will take place over two days, on [__May 27th and 28th__]{.orange}, from 9:30am to 5:30pm (UTC+1/CET):
+
+. . .
+
+- [__Welcome session__]{.blue2} (~30 min): organizers will explain and present the projects.
+
+. . .
+
+- [__Team work__]{.blue2} on one project over two days.
+
+. . .
+
+- [__Wrap-up session__]{.blue2} (~4:30pm on the second day): feedback and optional results presentation.
+
+::: {.callout-note}
+Presenting your results is **NOT** compulsory — the funathon is not a competition or an exam!
+:::
+
+## Registration {.smaller}
+
+Registration is __compulsory__. Participants register in teams of approximately 3 to 5 people.
+
+. . .
+
+::: {.callout-important}
+Organizers strongly recommend __booking a room__ to work together in-person — it's much more fun with colleagues!
+:::
+
+. . .
+
+__Two-step process:__
+
+- Register via the registration link (see the event webpage).
+- Organizers will confirm your registration by email around [__May 10th__]{.orange}.
+
+. . .
+
+__Onboarding sessions:__
+
+- [Monday May 18th]{.orange} afternoon
+- [Friday May 22nd]{.orange} morning
+
+## Frequently Asked Questions {.smaller}
+
+::: {.incremental}
+
+- __Can teams include people from different countries?__ Yes, but working in-person with nearby colleagues is strongly recommended.
+- __Can I participate solo?__ Yes, but teams are more efficient and more fun.
+- __Am I required to present my results?__ No, it is not compulsory.
+- __What are the technical requirements?__ A Github account and an SSPCloud account. Some knowledge of Git and Python is useful but not mandatory.
+- __Do I have to use SSPCloud?__ It is strongly recommended (technical support will only be provided on SSPCloud).
+- __Can I use my own data?__ Yes, as long as it is open data (no confidential data is allowed on SSPCloud).
 
 :::
 
