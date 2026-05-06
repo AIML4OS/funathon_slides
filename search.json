@@ -25,7 +25,7 @@
     "href": "index.html#requirements",
     "title": "Funathon Presentation",
     "section": "Requirements",
-    "text": "Requirements\nThe funathon is open to anyone willing to develop skills in AI and ML.\n\nThis being said, you’ll benefit more from the funathon if you have:\n\na basic knowledge of Git (git clone, git pull, git push…);\na basic knowledge of Python;\nSome experience in ML and AI is not necessary (but useful, of course!).\n\n\n\nTo participate you will need:\n\na Github account;\na SSPCloud account."
+    "text": "Requirements\nThe funathon is open to anyone willing to develop skills in AI and ML.\n\nThis being said, you’ll benefit more from the funathon if you have:\n\na basic knowledge of Git (git clone, git pull, git push…);\na basic knowledge of Python;\nSome experience in ML and AI is not necessary (but useful, of course!)."
   },
   {
     "objectID": "index.html#schedule",
@@ -33,6 +33,13 @@
     "title": "Funathon Presentation",
     "section": "Schedule",
     "text": "Schedule\nThe 2026 funathon will take place over two days, on May 27th and 28th, from 9:30am to 5:30pm (UTC+1/CET):\n\n\nWelcome session (~30 min): organizers will explain and present the projects.\n\n\n\n\nTeam work on one project over two days.\n\n\n\n\nWrap-up session (~4:30pm on the second day): feedback and optional results presentation.\n\n\n\n\n\n\n\nNote\n\n\nPresenting your results is NOT compulsory — the funathon is not a competition or an exam!"
+  },
+  {
+    "objectID": "index.html#technical-organization",
+    "href": "index.html#technical-organization",
+    "title": "Funathon Presentation",
+    "section": "Technical organization",
+    "text": "Technical organization\nThe funathon will take place online:\n\nParticipants will work on SSPCloud link;\nA support team will provide online support over Zoom.\n\n\nTo participate you will need:\n\na Github account;\na SSPCloud account;\nan internet connection;\naccess to Zoom."
   },
   {
     "objectID": "index.html#registration",
