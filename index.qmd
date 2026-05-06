@@ -36,8 +36,8 @@ The AIML4OS funathon is a special sort of event:
 
 - Objective: __learn and apply machine learning and IA methods in a collaborative and supportive environment__;
 - [__It is NOT a competition__]{.orange};
-- Teams of participants work autonomously on [__step-by-step projects__]{.orange}
-- Organizers provide tehnical support over the whole event;
+- Teams of participants work autonomously on [__step-by-step projects__]{.orange};
+- Organizers provide [__technical support__]{.orange} over the whole event;
 - __Entry point__ : [aiml4os.github.io/funathon-general-website](https://aiml4os.github.io/funathon-general-website/)
 
 :::
@@ -153,8 +153,6 @@ This onboarding session will explain:
 - How to create a Github account and an SSPCloud account;
 - How to use SSPCloud;
 - How to work on a project.
-
-
 
 
 ## Frequently Asked Questions {.smaller}
