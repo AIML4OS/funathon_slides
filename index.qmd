@@ -45,7 +45,7 @@ Funathon projects are end-to-end AI and ML projects demonstrating how to carry o
 
 ::: {.incremental}
 
-- Each project contains: [__data__]{.blue2}, [__code__]{.blue2}, complete technical [__configuration__]{.blue2}, detailed [__documentation__]{.blue2}, and exercises with hints and [__answers__]{.blue2}.
+- Each project contains: [__data__]{.blue2}, [__code__]{.blue2}, complete technical [__configuration__]{.blue2}, detailed [__documentation__]{.blue2}, and [__exercises__]{.blue2} with hints and [__answers__]{.blue2}.
 - Projects are [__well-suited for beginners__]{.orange} with minimal technical requirements.
 - [__Detailed solutions__]{.orange} are included so that no one gets stuck.
 - After the funathon, all projects will remain available on Github.
