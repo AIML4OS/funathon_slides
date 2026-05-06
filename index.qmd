@@ -30,7 +30,7 @@ The AIML4OS funathon is a special sort of event:
 
 ::: {.incremental}
 
-- Objective: __learn and apply machine learning and IA methods in a collaborative and supportive environment__;
+- Objective: [__learn and apply machine learning and IA methods in a collaborative and supportive environment__]{.blue2};
 - [__It is NOT a competition__]{.orange};
 - Teams of participants work autonomously on [__step-by-step projects__]{.orange};
 - Organizers provide [__technical support__]{.orange} over the whole event;
