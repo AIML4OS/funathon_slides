@@ -102,6 +102,12 @@ This being said, you'll benefit more from the funathon if you have:
 - a basic knowledge of [__Python__]{.orange};
 - Some experience in ML and AI is not necessary (but useful, of course!).
 
+. . .
+
+To participate you will need:
+
+- a [__Github account__]{.blue};
+- a [__SSPCloud account__]{.blue}.
 
 
 ## Schedule {.smaller}
