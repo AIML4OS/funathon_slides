@@ -42,8 +42,8 @@ A funathon is a special sort of event, halfway between a training session and a 
     + Feel free to try new things 😍 <br><br>
 - [**_"Immediate takeoff for data science"_**]{.blue2}
     + Theme: statistics on civil aviation
-    + Organization: innovation teams from Insee & DGAC <br><br>
-- __Entry point__ : [inseefrlab.github.io/funathon2024/](https://inseefrlab.github.io/funathon2024/)
+    + Organization: WP6 and innovation teams from Insee <br><br>
+- __Entry point__ : [aiml4os.github.io/funathon-general-website](https://aiml4os.github.io/funathon-general-website/)
 
 :::
 
@@ -112,14 +112,11 @@ Organizers strongly recommend __booking a room__ to work together in-person — 
 __Two-step process:__
 
 - Register via the registration link (see the event webpage).
-- Organizers will confirm your registration by email around [__May 10th__]{.orange}.
+- Organizers will confirm your registration by email around [__May 15th__]{.orange}.
 
-. . .
+## Onboarding session {.smaller}
 
-__Onboarding sessions:__
-
-- [Monday May 18th]{.orange} afternoon
-- [Friday May 22nd]{.orange} morning
+An onboarding session will take place on [Monday May 18th]{.orange} at 3:30pm (CET/GMT+1). 
 
 ## Frequently Asked Questions {.smaller}
 
