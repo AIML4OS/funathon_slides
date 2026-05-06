@@ -4,7 +4,7 @@
     "href": "index.html#what-is-a-funathon",
     "title": "Funathon Presentation",
     "section": "What is a Funathon?",
-    "text": "What is a Funathon?\nA funathon is a special sort of event, halfway between a training session and a hackathon. It aims at giving statisticians an opportunity to learn and apply machine learning and IA methods in a collaborative and supportive environment. Over two days, participants will work in teams on end-to-end ML and AI projects provided by the organizers. Throughout the event, the organizing team will provide support to participants over Zoom whenever needed. All projects will be carried out on the (amazing) SSPCloud platform.\n\n\n\n4 topics to explore different areas of data science\n\nNot a competition but step-by-step tutorials\nFeel free to try new things 😍 \n\n“Immediate takeoff for data science”\n\nTheme: statistics on civil aviation\nOrganization: innovation teams from Insee & DGAC \n\nEntry point : inseefrlab.github.io/funathon2024/\n\n\n\n\n\n\n\n\n\n\nLast year’s resources\n\n\nAll of last year’s resources (“From field to plate”) can be found at inseefrlab.github.io/funathon2023/"
+    "text": "What is a Funathon?\nA funathon is a special sort of event, halfway between a training session and a hackathon. It aims at giving statisticians an opportunity to learn and apply machine learning and IA methods in a collaborative and supportive environment. Over two days, participants will work in teams on end-to-end ML and AI projects provided by the organizers. Throughout the event, the organizing team will provide support to participants over Zoom whenever needed. All projects will be carried out on the (amazing) SSPCloud platform.\n\n\n\n4 topics to explore different areas of data science\n\nNot a competition but step-by-step tutorials\nFeel free to try new things 😍 \n\n“Immediate takeoff for data science”\n\nTheme: statistics on civil aviation\nOrganization: WP6 and innovation teams from Insee \n\nEntry point : aiml4os.github.io/funathon-general-website\n\n\n\n\n\n\n\n\n\n\nLast year’s resources\n\n\nAll of last year’s resources (“From field to plate”) can be found at inseefrlab.github.io/funathon2023/"
   },
   {
     "objectID": "index.html#what-do-projects-consist-in",
@@ -25,7 +25,14 @@
     "href": "index.html#registration",
     "title": "Funathon Presentation",
     "section": "Registration",
-    "text": "Registration\nRegistration is compulsory. Participants register in teams of approximately 3 to 5 people.\n\n\n\n\n\n\n\nImportant\n\n\nOrganizers strongly recommend booking a room to work together in-person — it’s much more fun with colleagues!\n\n\n\n\n\nTwo-step process:\n\nRegister via the registration link (see the event webpage).\nOrganizers will confirm your registration by email around May 10th.\n\n\n\nOnboarding sessions:\n\nMonday May 18th afternoon\nFriday May 22nd morning"
+    "text": "Registration\nRegistration is compulsory. Participants register in teams of approximately 3 to 5 people.\n\n\n\n\n\n\n\nImportant\n\n\nOrganizers strongly recommend booking a room to work together in-person — it’s much more fun with colleagues!\n\n\n\n\n\nTwo-step process:\n\nRegister via the registration link (see the event webpage).\nOrganizers will confirm your registration by email around May 15th."
+  },
+  {
+    "objectID": "index.html#onboarding-session",
+    "href": "index.html#onboarding-session",
+    "title": "Funathon Presentation",
+    "section": "Onboarding session",
+    "text": "Onboarding session\nAn onboarding session will take place on Monday May 18th at 3:30pm (CET/GMT+1)."
   },
   {
     "objectID": "index.html#frequently-asked-questions",
