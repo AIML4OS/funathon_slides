@@ -1,10 +1,38 @@
 [
   {
-    "objectID": "index.html#overview",
-    "href": "index.html#overview",
+    "objectID": "index.html#what-is-a-funathon",
+    "href": "index.html#what-is-a-funathon",
     "title": "Funathon Presentation",
-    "section": "Overview",
-    "text": "Overview\n\n\n\n4 topics to explore different areas of data science\n\nNot a competition but step-by-step tutorials\nFeel free to try new things 😍 \n\n“Immediate takeoff for data science”\n\nTheme: statistics on civil aviation\nOrganization: innovation teams from Insee & DGAC \n\nEntry point : inseefrlab.github.io/funathon2024/\n\n\n\n\n\n\n\n\n\n\nLast year’s resources\n\n\nAll of last year’s resources (“From field to plate”) can be found at inseefrlab.github.io/funathon2023/"
+    "section": "What is a Funathon?",
+    "text": "What is a Funathon?\nA funathon is a special sort of event, halfway between a training session and a hackathon. It aims at giving statisticians an opportunity to learn and apply machine learning and IA methods in a collaborative and supportive environment. Over two days, participants will work in teams on end-to-end ML and AI projects provided by the organizers. Throughout the event, the organizing team will provide support to participants over Zoom whenever needed. All projects will be carried out on the (amazing) SSPCloud platform.\n\n\n\n4 topics to explore different areas of data science\n\nNot a competition but step-by-step tutorials\nFeel free to try new things 😍 \n\n“Immediate takeoff for data science”\n\nTheme: statistics on civil aviation\nOrganization: innovation teams from Insee & DGAC \n\nEntry point : inseefrlab.github.io/funathon2024/\n\n\n\n\n\n\n\n\n\n\nLast year’s resources\n\n\nAll of last year’s resources (“From field to plate”) can be found at inseefrlab.github.io/funathon2023/"
+  },
+  {
+    "objectID": "index.html#what-do-projects-consist-in",
+    "href": "index.html#what-do-projects-consist-in",
+    "title": "Funathon Presentation",
+    "section": "What do projects consist in?",
+    "text": "What do projects consist in?\nFunathon projects are end-to-end AI and ML projects demonstrating how to carry out a complex statistical task (codification, satellite imagery processing…).\n\nEach project contains: data, code, complete technical configuration, detailed documentation, and exercises with hints and answers.\nProjects are well-suited for beginners with minimal technical requirements.\nDetailed solutions are included so that no one gets stuck.\nAfter the funathon, all projects will remain available on Github."
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "Funathon Presentation",
+    "section": "Schedule",
+    "text": "Schedule\nThe 2026 funathon will take place over two days, on May 27th and 28th, from 9:30am to 5:30pm (UTC+1/CET):\n\n\nWelcome session (~30 min): organizers will explain and present the projects.\n\n\n\n\nTeam work on one project over two days.\n\n\n\n\nWrap-up session (~4:30pm on the second day): feedback and optional results presentation.\n\n\n\n\n\n\n\nNote\n\n\nPresenting your results is NOT compulsory — the funathon is not a competition or an exam!"
+  },
+  {
+    "objectID": "index.html#registration",
+    "href": "index.html#registration",
+    "title": "Funathon Presentation",
+    "section": "Registration",
+    "text": "Registration\nRegistration is compulsory. Participants register in teams of approximately 3 to 5 people.\n\n\n\n\n\n\n\nImportant\n\n\nOrganizers strongly recommend booking a room to work together in-person — it’s much more fun with colleagues!\n\n\n\n\n\nTwo-step process:\n\nRegister via the registration link (see the event webpage).\nOrganizers will confirm your registration by email around May 10th.\n\n\n\nOnboarding sessions:\n\nMonday May 18th afternoon\nFriday May 22nd morning"
+  },
+  {
+    "objectID": "index.html#frequently-asked-questions",
+    "href": "index.html#frequently-asked-questions",
+    "title": "Funathon Presentation",
+    "section": "Frequently Asked Questions",
+    "text": "Frequently Asked Questions\n\nCan teams include people from different countries? Yes, but working in-person with nearby colleagues is strongly recommended.\nCan I participate solo? Yes, but teams are more efficient and more fun.\nAm I required to present my results? No, it is not compulsory.\nWhat are the technical requirements? A Github account and an SSPCloud account. Some knowledge of Git and Python is useful but not mandatory.\nDo I have to use SSPCloud? It is strongly recommended (technical support will only be provided on SSPCloud).\nCan I use my own data? Yes, as long as it is open data (no confidential data is allowed on SSPCloud)."
   },
   {
     "objectID": "index.html#practical-details",
