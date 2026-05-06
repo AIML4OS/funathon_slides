@@ -105,18 +105,21 @@ Presenting your results is **NOT** compulsory — the funathon is not a competit
 
 The funathon will take place online:
 
-- Participants will work on [__SSPCloud__]{.orange} [[__link__]{.blue}](https://datalab.sspcloud.fr/);
-- A support team will provide [__online support__]{.orange} over Zoom.
+- Participants will work on [__SSPCloud__]{.orange}: https://datalab.sspcloud.fr/;
+- A support team will provide [__online technical support__]{.orange} over Zoom.
 
 . . .
 
 To participate you will need:
 
-- a [__Github account__]{.blue};
-- a [__SSPCloud account__]{.blue};
+- a [__Github account__]{.blue2};
+- a [__SSPCloud account__]{.blue2};
 - an internet connection;
 - access to Zoom.
 
+. . .
+
+An onboarding session on may 18th will cover these requirements in detail.
 
 ## Registration {.smaller}
 
