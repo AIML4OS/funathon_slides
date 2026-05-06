@@ -28,41 +28,20 @@ from: markdown+emoji
 
 ## What is a Funathon? {.smaller}
 
-A funathon is a special sort of event, halfway between a training session and a hackathon. It aims at giving statisticians an opportunity to __learn and apply machine learning and IA methods in a collaborative and supportive environment__. Over two days, participants will work in teams on end-to-end ML and AI projects provided by the organizers. Throughout the event, the organizing team will provide support to participants over Zoom whenever needed. All projects will be carried out on the (amazing) SSPCloud platform. 
+. . .
 
-
-:::: {.columns}
-
-::: {.column width="70%"}
+The AIML4OS funathon is a special sort of event:
 
 ::: {.incremental}
 
-- __[4 topics]{.blue2}__ to explore different areas of _data science_
-    + Not a competition but [step-by-step tutorials]{.orange}
-    + Feel free to try new things 😍 <br><br>
-- [**_"Immediate takeoff for data science"_**]{.blue2}
-    + Theme: statistics on civil aviation
-    + Organization: WP6 and innovation teams from Insee <br><br>
+- Objective: __learn and apply machine learning and IA methods in a collaborative and supportive environment__;
+- [__It is NOT a competition__]{.orange};
+- Teams of participants work autonomously on [__step-by-step projects__]{.orange}
+- Organizers provide tehnical support over the whole event;
 - __Entry point__ : [aiml4os.github.io/funathon-general-website](https://aiml4os.github.io/funathon-general-website/)
 
 :::
 
-:::
-
-::: {.column width="30%"}
-
-![](https://inseefrlab.github.io/funathon2024/img/best_image_funathon.png)
-
-:::
-
-::::
-
-::: {.callout-note collapse="true"}
-## Last year's resources
-
-All of last year's resources (_"From field to plate"_) can be found at [inseefrlab.github.io/funathon2023/](https://inseefrlab.github.io/funathon2023/)
-
-:::
 
 ## What do projects consist in? {.smaller}
 
