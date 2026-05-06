@@ -2,309 +2,64 @@
   {
     "objectID": "index.html#what-is-a-funathon",
     "href": "index.html#what-is-a-funathon",
-    "title": "Funathon Presentation",
+    "title": "Presentation of the AIML4OS Funathon",
     "section": "What is a Funathon?",
     "text": "What is a Funathon?\n\nThe AIML4OS funathon is a special sort of event:\n\nObjective: learn and apply machine learning and IA methods in a collaborative and supportive environment;\nIt is NOT a competition;\nTeams of participants work autonomously on step-by-step projects;\nOrganizers provide technical support over the whole event;\nEntry point : aiml4os.github.io/funathon-general-website"
   },
   {
     "objectID": "index.html#what-do-projects-consist-in",
     "href": "index.html#what-do-projects-consist-in",
-    "title": "Funathon Presentation",
+    "title": "Presentation of the AIML4OS Funathon",
     "section": "What do projects consist in?",
     "text": "What do projects consist in?\nFunathon projects are end-to-end AI and ML projects demonstrating how to carry out a complex statistical task (codification, satellite imagery processing…).\n\nEach project contains: data, code, complete technical configuration, detailed documentation, and exercises with hints and answers.\nProjects are well-suited for beginners with minimal technical requirements.\nDetailed solutions are included so that no one gets stuck.\nAfter the funathon, all projects will remain available on Github."
   },
   {
     "objectID": "index.html#what-will-you-learn",
     "href": "index.html#what-will-you-learn",
-    "title": "Funathon Presentation",
+    "title": "Presentation of the AIML4OS Funathon",
     "section": "What will you learn?",
     "text": "What will you learn?\n\nDiscover AI and ML methods, tools and best practices;\n\n\n\nWork on real-life AIML use cases relevant for official statistics.\n\n\n\n\nGet familiar with cloud-native work environments such as SSPCloud."
   },
   {
     "objectID": "index.html#requirements",
     "href": "index.html#requirements",
-    "title": "Funathon Presentation",
+    "title": "Presentation of the AIML4OS Funathon",
     "section": "Requirements",
     "text": "Requirements\nThe funathon is open to anyone willing to develop skills in AI and ML.\n\nThis being said, you’ll benefit more from the funathon if you have:\n\na basic knowledge of Git (git clone, git pull, git push…);\na basic knowledge of Python;\nSome experience in ML and AI is not necessary (but useful, of course!)."
   },
   {
     "objectID": "index.html#schedule",
     "href": "index.html#schedule",
-    "title": "Funathon Presentation",
+    "title": "Presentation of the AIML4OS Funathon",
     "section": "Schedule",
     "text": "Schedule\nThe 2026 funathon will take place over two days, on May 27th and 28th, from 9:30am to 5:30pm (UTC+1/CET):\n\n\nWelcome session (~30 min on the first day): organizers will explain and present the projects.\n\n\n\n\nTeam work on one project over two days.\n\n\n\n\nWrap-up session (~4:30pm on the second day): feedback and optional results presentation.\n\n\n\n\n\n\n\nNote\n\n\nPresenting your results is NOT compulsory — the funathon is not a competition or an exam!"
   },
   {
     "objectID": "index.html#technical-organization",
     "href": "index.html#technical-organization",
-    "title": "Funathon Presentation",
+    "title": "Presentation of the AIML4OS Funathon",
     "section": "Technical organization",
     "text": "Technical organization\nThe funathon will take place online:\n\nParticipants will work on SSPCloud: https://datalab.sspcloud.fr/;\nA support team will provide online technical support over Zoom.\n\n\nTo participate you will need:\n\na Github account;\na SSPCloud account;\nan internet connection;\naccess to Zoom.\n\n\n\nAn onboarding session on may 18th will cover these requirements in detail."
   },
   {
     "objectID": "index.html#registration",
     "href": "index.html#registration",
-    "title": "Funathon Presentation",
+    "title": "Presentation of the AIML4OS Funathon",
     "section": "Registration",
     "text": "Registration\nRegistration is compulsory. Participants register in teams of approximately 3 to 5 people.\n\n\n\n\n\n\n\nImportant\n\n\nOrganizers strongly recommend booking a room to work together in-person — it’s much more fun with colleagues!\n\n\n\n\n\nTwo-step process:\n\nRegister via the registration link (see the event webpage).\nOrganizers will confirm your registration by email around May 15th.\n\n\n\n\n\n\n\n\n\nImportant\n\n\nDue to capacity constraints on SSPCloud, some teams may not be allowed to participate if the number of registrants is too high."
   },
   {
     "objectID": "index.html#onboarding-session",
     "href": "index.html#onboarding-session",
-    "title": "Funathon Presentation",
+    "title": "Presentation of the AIML4OS Funathon",
     "section": "Onboarding session",
     "text": "Onboarding session\nAn onboarding session will take place on Monday May 18th at 3:30pm (CET/GMT+1).\n\nThis onboarding session will explain:\n\nHow to create a Github account and an SSPCloud account;\nHow to use SSPCloud;\nHow to work on a project."
   },
   {
     "objectID": "index.html#frequently-asked-questions",
     "href": "index.html#frequently-asked-questions",
-    "title": "Funathon Presentation",
+    "title": "Presentation of the AIML4OS Funathon",
     "section": "Frequently Asked Questions",
     "text": "Frequently Asked Questions\n\nCan teams include people from different countries? Yes, but working in-person with nearby colleagues is strongly recommended.\nCan I participate solo? Yes, but teams are more efficient and more fun.\nAm I required to present my results? No, it is not compulsory.\nWhat are the technical requirements? A Github account and an SSPCloud account. Some knowledge of Git and Python is useful but not mandatory.\nDo I have to use SSPCloud? It is strongly recommended (technical support will only be provided on SSPCloud).\nCan I use my own data? Yes, as long as it is open data (no confidential data is allowed on SSPCloud)."
-  },
-  {
-    "objectID": "index.html#practical-details",
-    "href": "index.html#practical-details",
-    "title": "Funathon Presentation",
-    "section": "Practical details",
-    "text": "Practical details\n\n100% virtual event over 2 days:\n\nFirst day: introduction at 9:30am ;\nSecond day: end of work on topics at 4:30pm, then presentation and conclusion\n\n\n\n\nSupport on Tchap and Zoom (links below 👇️):\n\nGuaranteed assistance: 10am-5:30pm (except lunch 🍔) ;\nDon’t get stuck, ask questions!\n\n\n\n\n\n\n\n\nUseful links\n\n\n\nTchap channel Funathon 2024\nZoom channel over both days"
-  },
-  {
-    "objectID": "index.html#the-4-topics",
-    "href": "index.html#the-4-topics",
-    "title": "Funathon Presentation",
-    "section": "The 4 topics",
-    "text": "The 4 topics\n\n and  resources on open data from DGAC :\n\n2 topics allow you to use \n3 topics allow you to use \nTechnical levels indicated on the topics\n\n\n\n\nComplete tutorials with solutions\n\nLook for the answer before checking the solution, it’s the best way to learn!\nSecondary goal: learn Git  and reproducibility\n\n\n\n\n\n\n\n\nMore fun as a team 😺\n\n\nFeel free to work on the topics as a team"
-  },
-  {
-    "objectID": "index.html#the-4-topics-1",
-    "href": "index.html#the-4-topics-1",
-    "title": "Funathon Presentation",
-    "section": "The 4 topics",
-    "text": "The 4 topics\nPresentation of the 4 topics\n\nFind the topics at inseefrlab.github.io/funathon2024/"
-  },
-  {
-    "objectID": "index.html#an-ideal-environment-for-training",
-    "href": "index.html#an-ideal-environment-for-training",
-    "title": "Funathon Presentation",
-    "section": "An ideal environment for training",
-    "text": "An ideal environment for training\n\nPlatform available at https://datalab.sspcloud.fr/\n\nTo discover and experiment…\n… Only with open data\n\n\n\n\nA platform for public administration:\n\nOpen to civil servants and data science training programs (ENSAE…)\nServers hosted at Insee\n\n\n\n\n\n\n\n\n\n\nImportant\n\n\nRecommended platform for this event\n\nLet us know if you cannot create an account!"
-  },
-  {
-    "objectID": "index.html#an-ideal-environment-for-data-analysis",
-    "href": "index.html#an-ideal-environment-for-data-analysis",
-    "title": "Funathon Presentation",
-    "section": "An ideal environment for data analysis",
-    "text": "An ideal environment for data analysis"
-  },
-  {
-    "objectID": "index.html#plus-ssp-cloud-is-amazing",
-    "href": "index.html#plus-ssp-cloud-is-amazing",
-    "title": "Funathon Presentation",
-    "section": "Plus, SSP Cloud is amazing! 😍",
-    "text": "Plus, SSP Cloud is amazing! 😍\n\nhttps://datalab.sspcloud.fr"
-  },
-  {
-    "objectID": "index.html#a-platform-for-reproducibility-and-freedom",
-    "href": "index.html#a-platform-for-reproducibility-and-freedom",
-    "title": "Funathon Presentation",
-    "section": "A platform for reproducibility and freedom",
-    "text": "A platform for reproducibility and freedom\n\nYou make a contract with SSP Cloud to create an RStudio or Jupyter environment\n\nIt runs on remote servers you access through your browser\n\n\n\n\nInitially standardized environment:\n\nEveryone starts from the same minimal base\nFreedom to install packages or Linux libraries\n\n\n\n\n\nFor Insee: same principle as the LS3 platform"
-  },
-  {
-    "objectID": "index.html#a-platform-for-best-practices",
-    "href": "index.html#a-platform-for-best-practices",
-    "title": "Funathon Presentation",
-    "section": "A platform for best practices",
-    "text": "A platform for best practices\n\n\nIn a different environment\n\n\nSource: https://ensae-reproductibilite.github.io\n\n\nTemporary environments therefore:\n\nStore code in a permanent place: Github, Gitlab\nStore data in a permanent place: MinIO\n\n\n\n\nIn the context of the Funathon\n\n\n\n\n\nFor those who want to go (really) further\n\n\nSource: https://ensae-reproductibilite.github.io\n\n\n\n\n\n\n\nNote\n\n\nServices last several days but are not meant to persist"
-  },
-  {
-    "objectID": "index.html#standardized-services-to-rule-them-all",
-    "href": "index.html#standardized-services-to-rule-them-all",
-    "title": "Funathon Presentation",
-    "section": "Standardized services to rule them all",
-    "text": "Standardized services to rule them all"
-  },
-  {
-    "objectID": "index.html#a-persistent-storage-system-for-data",
-    "href": "index.html#a-persistent-storage-system-for-data",
-    "title": "Funathon Presentation",
-    "section": "A persistent storage system for data",
-    "text": "A persistent storage system for data"
-  },
-  {
-    "objectID": "index.html#when-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e647320722d70726f6a656374203e7d7d-or-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e647320707974686f6e203e7d7d-are-not-enough",
-    "href": "index.html#when-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e647320722d70726f6a656374203e7d7d-or-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e647320707974686f6e203e7d7d-are-not-enough",
-    "title": "Funathon Presentation",
-    "section": "When  or  are not enough",
-    "text": "When  or  are not enough\nSpecial technologies for databases"
-  },
-  {
-    "objectID": "index.html#when-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e647320722d70726f6a656374203e7d7d-or-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e647320707974686f6e203e7d7d-are-not-enough-1",
-    "href": "index.html#when-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e647320722d70726f6a656374203e7d7d-or-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e647320707974686f6e203e7d7d-are-not-enough-1",
-    "title": "Funathon Presentation",
-    "section": "When  or  are not enough",
-    "text": "When  or  are not enough\nTechnologies suited for large-scale data"
-  },
-  {
-    "objectID": "index.html#bonus",
-    "href": "index.html#bonus",
-    "title": "Funathon Presentation",
-    "section": "Bonus",
-    "text": "Bonus\nStatisticians who discovered SSPCloud, when they have to go back to their usual infrastructure"
-  },
-  {
-    "objectID": "index.html#checklist",
-    "href": "index.html#checklist",
-    "title": "Funathon Presentation",
-    "section": "Checklist",
-    "text": "Checklist\n\nCreate an account\nLog in\nFind help\nLaunch a data science service (R, Jupyter…)\nUse Git \nUse MinIO object storage"
-  },
-  {
-    "objectID": "index.html#create-an-account",
-    "href": "index.html#create-an-account",
-    "title": "Funathon Presentation",
-    "section": "Create an account",
-    "text": "Create an account\n\nGo to https://datalab.sspcloud.fr then Login and Create an account\n\nUse an email address from an authorized domain (@insee.fr, @..gouv.fr…)\nDomains @gmail.com, @yahoo.fr… not allowed\nOnly institutional domains are authorized (universities, schools, administrations…)\n\n\n\n\nIf needed, ask us to add a domain"
-  },
-  {
-    "objectID": "index.html#log-in",
-    "href": "index.html#log-in",
-    "title": "Funathon Presentation",
-    "section": "Log in",
-    "text": "Log in\n\nGo to https://datalab.sspcloud.fr\nClick on Login\n\nCivil servants: the AgentConnect login is very convenient"
-  },
-  {
-    "objectID": "index.html#find-help",
-    "href": "index.html#find-help",
-    "title": "Funathon Presentation",
-    "section": "Find help",
-    "text": "Find help\n\nDocumentation: https://docs.sspcloud.fr/\n\n\n\nTraining portal to bookmark ⭐️: https://www.sspcloud.fr/formation\n\n\n\n\nAsk questions on Tchap channels:\n\nSSPCloud in general;\nFunathon 2024 during this event;"
-  },
-  {
-    "objectID": "index.html#launch-a-data-science-service",
-    "href": "index.html#launch-a-data-science-service",
-    "title": "Funathon Presentation",
-    "section": "Launch a data science service",
-    "text": "Launch a data science service\nhttps://docs.sspcloud.fr/onyxia-guide/premiere-utilisation\n\nEach service has a README, read it 😉\n\n\n\nEach service is protected by a password, copy it\n\n\n\n\nServices are ephemeral\n\nUse Git  (with Github  or Gitlab ) to save your notebooks and code\nUse MinIO to save your data\notherwise you might lose your work"
-  },
-  {
-    "objectID": "index.html#using-git-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e6473206769742d616c74203e7d7d",
-    "href": "index.html#using-git-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206272616e6473206769742d616c74203e7d7d",
-    "title": "Funathon Presentation",
-    "section": "Using Git ",
-    "text": "Using Git \nhttps://docs.sspcloud.fr/onyxia-guide/controle-de-version\n\nMandatory to avoid losing work (notebooks and code)\nEssential for collaboration\nCompatible with your forge of choice (GitHub, GitLab…)\nAuthentication token (see below) can be stored on SSPCloud"
-  },
-  {
-    "objectID": "index.html#using-minio-object-storage",
-    "href": "index.html#using-minio-object-storage",
-    "title": "Funathon Presentation",
-    "section": "Using MinIO object storage",
-    "text": "Using MinIO object storage\nhttps://docs.sspcloud.fr/onyxia-guide/stockage-de-donnees\n\nTo store your data as if you had a local file service\nEach user has a personal bucket\nPossibility to make data public\nPython libraries (Boto3 or S3Fs) or R (aws.s3)"
-  },
-  {
-    "objectID": "index.html#using-minio-object-storage-1",
-    "href": "index.html#using-minio-object-storage-1",
-    "title": "Funathon Presentation",
-    "section": "Using MinIO object storage",
-    "text": "Using MinIO object storage"
-  },
-  {
-    "objectID": "index.html#launch-a-ready-to-use-service",
-    "href": "index.html#launch-a-ready-to-use-service",
-    "title": "Funathon Presentation",
-    "section": "Launch a ready-to-use service",
-    "text": "Launch a ready-to-use service\n\nAn example with  (Dashboard)\n\n\n\nAn example with Python  (Text analysis topic)\n\n\n\n\n\n\n\n\nFor the Python launch link\n\n\nDon’t forget to replace the pre-filled repository URL in the Init tab with your own (the URL of your fork)"
-  },
-  {
-    "objectID": "index.html#why-use-version-control",
-    "href": "index.html#why-use-version-control",
-    "title": "Funathon Presentation",
-    "section": "Why use version control?",
-    "text": "Why use version control?\n\nBuild and navigate through your project’s history\n\n\n\nCollaboration made simple and efficient\n\n\n\n\nImprove the reproducibility of your projects\n\n\n\n\nImprove the visibility of your projects\n\n\n\n\n\n\n\nNote\n\n\nMore details in the official training"
-  },
-  {
-    "objectID": "index.html#workflow",
-    "href": "index.html#workflow",
-    "title": "Funathon Presentation",
-    "section": "Workflow",
-    "text": "Workflow\n\n\n\n\n\n\nBy default, the remote repository has the alias origin"
-  },
-  {
-    "objectID": "index.html#additional-resources",
-    "href": "index.html#additional-resources",
-    "title": "Funathon Presentation",
-    "section": "Additional resources",
-    "text": "Additional resources\n\nTo go further:\n\nBest practices training with Git and R\nIntroduction to Git for Python\nThe utilitR documentation has several chapters on Git\nThe Bible of Git usage"
-  },
-  {
-    "objectID": "index.html#objective",
-    "href": "index.html#objective",
-    "title": "Funathon Presentation",
-    "section": "Objective",
-    "text": "Objective\n\nDiscover S3\nDiscover Git through the RStudio interface\nDiscover the interaction between Git, RStudio and Gitlab\nGet familiar with some Git concepts\n\n\n\nRecommended method for Git:\n\nWe suggest working on the same branch…\n… but on separate files.\nAvoids using branches while limiting conflicts.\n\n\n\n\n\nFind help:\n\nFor any question: the Tchap room Insee-Git-Gitlab\nAt Insee: the user documentation for using Git on AUS\nAsk your colleagues who use Git!"
-  },
-  {
-    "objectID": "index.html#demo",
-    "href": "index.html#demo",
-    "title": "Funathon Presentation",
-    "section": "Demo 🚀",
-    "text": "Demo 🚀\nExample from topic 2"
-  },
-  {
-    "objectID": "index.html#s3-cheat-sheet",
-    "href": "index.html#s3-cheat-sheet",
-    "title": "Funathon Presentation",
-    "section": "S3 cheat sheet",
-    "text": "S3 cheat sheet\n\n\nExamples from utilitR\n\nbucket &lt;- \"donnees-insee\"\naws.s3::get_bucket(bucket, region = \"\")\ndf &lt;-\n  aws.s3::s3read_using(\n    FUN = data.table::fread,\n    # Put FUN options here\n    object = \"diffusion/FILOSOFI/2016/FILOSOFI_COM.csv\",\n    bucket = \"donnees-insee\",\n    opts = list(\"region\" = \"\")\n  )\naws.s3::s3write_using(\n  df,\n  FUN = data.table::fwrite,\n  # fread options go here\n  sep = \" ;\",\n  col.names = TRUE,\n  object = \"data/filosofi2016_example.csv\",\n  bucket = \"MY_BUCKET_TO_REPLACE\",\n  opts = list(\"region\" = \"\")\n)\n\nTo list files in a bucket:\nbucket &lt;- \"projet-funathon\"\naeroports &lt;- aws.s3::get_bucket(bucket, region = \"\", prefix = \"2024/sujet2/\")\nTo read a file directly:\nbucket &lt;- \"donnees-funathon\"\naeroports &lt;- aws.s3::s3read_using(\n  object = objets$Contents$Key,\n  FUN = sf::st_read,\n  bucket = bucket,\n  opts = list(region = \"\")\n)\n\nlibrary(leaflet)\nleaflet(aeroports) %&gt;% addTiles() %&gt;%\n  addMarkers(popup = ~Nom)"
-  },
-  {
-    "objectID": "index.html#demo-1",
-    "href": "index.html#demo-1",
-    "title": "Funathon Presentation",
-    "section": "Demo 🚀",
-    "text": "Demo 🚀\nExample with Python  (Text analysis topic)"
-  },
-  {
-    "objectID": "index.html#s3-cheat-sheet-1",
-    "href": "index.html#s3-cheat-sheet-1",
-    "title": "Funathon Presentation",
-    "section": "S3 cheat sheet",
-    "text": "S3 cheat sheet\nSee https://pythonds.linogaliana.fr/content/modern-ds/s3.html"
-  },
-  {
-    "objectID": "index.html#git",
-    "href": "index.html#git",
-    "title": "Funathon Presentation",
-    "section": "Git",
-    "text": "Git\nSee https://pythonds.linogaliana.fr/content/git/exogit.html"
-  },
-  {
-    "objectID": "index.html#questions",
-    "href": "index.html#questions",
-    "title": "Funathon Presentation",
-    "section": "Questions",
-    "text": "Questions"
-  },
-  {
-    "objectID": "index.html#the-funathon-is-underway",
-    "href": "index.html#the-funathon-is-underway",
-    "title": "Funathon Presentation",
-    "section": "The funathon is underway",
-    "text": "The funathon is underway\n\nYou can join the breakout rooms on Zoom by topic\nYou can ask your questions on Tchap"
-  },
-  {
-    "objectID": "index.html#the-funathon-is-underway-support-on-break",
-    "href": "index.html#the-funathon-is-underway-support-on-break",
-    "title": "Funathon Presentation",
-    "section": "The funathon is underway (support on break)",
-    "text": "The funathon is underway (support on break)\n\nThe assistants also need a coffee break"
-  },
-  {
-    "objectID": "index.html#the-funathon-is-underway-lunch-break",
-    "href": "index.html#the-funathon-is-underway-lunch-break",
-    "title": "Funathon Presentation",
-    "section": "The funathon is underway (lunch break)",
-    "text": "The funathon is underway (lunch break)\n\nDon’t forget to eat"
   }
 ]
