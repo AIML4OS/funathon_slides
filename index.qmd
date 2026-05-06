@@ -6,7 +6,7 @@ author: Lino Galiana
 slide-number: true
 footer: |
   Funathon 2024, event presentation
-# uncomment for French presentations:
+# uncomment for French presentations: 
 lang: en
 # for blind readers:
 slide-tone: false
