@@ -118,7 +118,7 @@ An [__onboarding session on May 18th__]{.orange} will cover these requirements i
 
 [__How to enjoy the funathon__]{.blue2}:
 
-- __Make a team with your colleagues__.
+- [__Make a team with your colleagues__]{.orange}.
 - [__Book a room__]{.orange} for two days to work together [__in-person__]{.orange} — it's much more fun with colleagues!
 - Get water, coffee and snacks.
 - [__Work together__]{.orange}, for instance two colleagues on one computer.
