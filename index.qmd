@@ -109,12 +109,10 @@ The funathon will take place online:
 
 To participate you will need:
 
-- a [__Github account__]{.blue2};
-- a [__SSPCloud account__]{.blue2};
-- a good internet connection;
-- access to Zoom.
+- a [__Github account__]{.blue2} and an [__SSPCloud account__]{.blue2};
+- a good internet connection and access to Zoom.
 
-An onboarding session on May 18th will cover these requirements in detail.
+An [__onboarding session on May 18th__]{.orange} will cover these requirements in detail.
 
 . . .
 
